@@ -15,8 +15,8 @@ Word lists / texts taken:
   - [(source 2)](http://www.darklyrics.com/e/eluveitie.html) Selected Gallic song lyrics from the band Eluveitie
 - Latin: [(source)](http://www.thelatinlibrary.com/ovid/ovid.met1.shtml)  
   The first book of Ovid's Metamorphoses
-- French: [(source)](https://www.ukessays.com/essays/french/le-groupe-international-belge-french-essay.php)  
-  A random news article in French
+- French: [(source)](https://fr.wikipedia.org/wiki/France)
+  The French Wikipedia entry for France
 
 ----
 
@@ -24,6 +24,8 @@ Word lists / texts taken:
 
 - Behemoth: [(source)](http://www.darklyrics.com/b/behemoth.html)  
   English song lyrics by the death metal band Behemoth. Sampled words will have be more occult themed
+- The Black Speech: [(source)](http://www.angelfire.com/ia/orcishnations/englishorcish.html)
+  JRR Tolkien's language of the Orcs
 - Lorem Ipsum: [(source)](http://www.lipsum.com)  
   The classic lorem ipsum text
 - Pokemon: [(source)](https://github.com/veekun/pokedex/blob/74e22520db7e6706d2e7ad2109f15b7e9be10a24/pokedex/data/csv/pokemon.csv)  

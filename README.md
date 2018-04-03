@@ -31,7 +31,7 @@ TODO blogpost
 - Sample usage, appending a custom, fixed suffix to each name:
 
 ```python
-./generate.py -n 5 -t 0.7 -m models/behemoth_500epochs.h5 wordlists/behemoth.txt --suffix Labs
+./generate.py -e 500 -n 10 -t 0.7 -s models/behemoth_500epochs.h5 wordlists/behemoth.txt --suffix Labs
 ```
 
 ```
@@ -40,6 +40,17 @@ Unlieling Labs
 Undewfions Labs
 Archon Labs
 Unleash Labs
+Architer Labs
+Archaror Labs
+Lament Labs
+Unionih Labs
+Lacerate Labs
 ```
 
 (I found a long list of possible suffixes [here](https://www.reddit.com/r/Entrepreneur/comments/4jfrgl/is_there_a_list_of_generic_company_name_endings/))
+
+- After you stored the model (with the `-s` option), word generation is quicker when you load instead of re-compute the model:
+
+```python
+./generate.py -n 10 -t 0.7 -m models/behemoth_500epochs.h5 wordlists/behemoth.txt --suffix Labs
+```

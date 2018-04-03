@@ -1,508 +1,443 @@
-Note de Synthèse
+La France (Écouter), en forme longue depuis 1875 la République française (Écouter), est un État transcontinental souverain, dont le territoire métropolitain est situé en Europe de l'Ouest. Ce dernier a des frontières terrestres avec la Belgique, le Luxembourg, l'Allemagne, la Suisse, l'Italie, l'Espagne et les principautés d'Andorre et de MonacoN 6,5 et dispose d'importantes façades maritimes dans l'Atlantique, la Manche, la mer du Nord et la Méditerranée. Son territoire ultramarin s'étend dans les océans Indien6, Atlantique7 et Pacifique8 ainsi que sur le continent sud-américain9 et a des frontières terrestres avec le Brésil, le Suriname et le Royaume des Pays-Bas.
+
+Fruit d'une histoire politique longue et mouvementée, la France est une république constitutionnelle unitaire ayant un régime semi-présidentiel. La devise de la République est depuis 1875 « Liberté, Égalité, Fraternité » et son drapeau est constitué des trois couleurs nationales (bleu, blanc, rouge) disposées en trois bandes verticales d'égale largeur. Son hymne national est La Marseillaise, chant patriotique hérité de la Révolution française. Son principe est : « gouvernement du peuple, par le peuple et pour le peuple ». Elle a pour capitale Paris et pour langue officielle le français depuis 1539, à la place du latin. Ses monnaies sont l'euro depuis 2002 dans la majeure partie du pays et le franc Pacifique dans ses territoires de l'océan Pacifique.
+
+Pays formé pendant l'Antiquité tardive, vingt ans après la chute de l'Empire romain d'occident, la France tire son nom des Francs, peuple germanique qui a institué les premiers fondements de son État sur les bases de la Gaule romaine. C'est au fil des siècles, par des guerres, des mariages politiques et des unions souveraines, que cet État monarchique et catholique va peu à peu constituer autour de lui une véritable fédération de provinces, qui finira par se cristalliser en une nation unique grâce à une politique d'uniformisation administrative et culturelle, portée à son aboutissement par la Révolution française de 1789 et la fin du régime féodalN 7.
+
+Du début du XVIIe siècle à la première moitié du XXe siècle, elle possède un vaste Empire colonial. À partir des années 1950, elle est l'un des acteurs de la construction de l'Union européenne. Troisième puissance nucléaire mondiale, l'un des cinq membres permanents du Conseil de sécurité des Nations unies et membre de l'OTAN, la France est également membre du G7, du G20, de la zone euro, de l'espace Schengen, de la commission de l'océan Indien, de la communauté du Pacifique et abrite le siège du Conseil de l'Europe, du Parlement européen et de l'UNESCO. De ce fait, elle exerce une influence notable en matière politique, économique, militaire et culturelle en Europe et dans le reste du monde.
+
+Seul pays au monde à exercer sa souveraineté sur des territoires répartis sur trois océans et deux continents10,N 8,N 9, elle joue un important rôle géopolitique au niveau mondial, grâce à un réseau d'ambassades et de consulats étendu, le deuxième au monde derrière celui des États-Unis, et elle dispose de bases militaires sur tous les continents. La France possède la première zone économique exclusive (espace maritime) au monde, à laquelle s'ajoute une extension du plateau continental de 579 000 km2 en 201511, et est un des premiers pays du monde pour la diversité de ses milieux maritimes et leur biodiversité12.
+
+La France est, en novembre 2017, la deuxième économie européenne derrière l'Allemagne et devant le Royaume-Uni la cinquième économie mondiale par PIB nominal13, et, en avril 2016, la neuvième économie mondiale par PIB à parité de pouvoir d'achat14. Malgré un taux de chômage relativement fort, elle affiche un niveau de vie « très élevé » (20e au classement IDH en 2014). Elle figure parmi les leaders mondiaux dans les secteurs de l'agroalimentaire, de l'aéronautique, de l'automobile, des produits de luxe, du tourisme et du nucléaire. Au 1er janvier 2018, la population de la France est d'environ 67,2 millions d'habitants, selon les estimations publiées par l'Insee, dont 65 018 000 dans les régions métropolitaines et 2 169 000 dans les régions ultramarines. Par ailleurs 608 200 vivent dans les collectivités d'outre-mer et en Nouvelle-Calédonie.
+
+Deuxième pays le plus peuplé de l'Union européenne derrière l'Allemagne, la France est aussi le plus vaste de l'Union européenne et le troisième pays le plus vaste d'Europe15. Sa culture et sa civilisation sont diffusées par les pays francophones à travers le monde, réunis dans l'Organisation internationale de la francophonie. Traditionnellement utilisé comme langue de la diplomatie, le français est la dixième langue maternelle la plus parlée au monde et une des langues ayant la plus grande diffusion internationale. Il est une des six langues officielles et une des deux langues de travail avec l'anglais de l'Organisation des Nations unies, l'une des deux langues officielles du Comité international olympique, et langue officielle ou de travail de plusieurs organisations internationales ou régionales. Le français est également l'une des trois langues de travail de l'Union européenne — avec l'allemand et l'anglais.
+
+Sommaire
+
+    1 Géographie
+        1.1 Localisation, frontières et superficie
+        1.2 Géologie, topographie et hydrographie
+        1.3 Climat
+        1.4 Paysages et environnement
+        1.5 Répartition spatiale des hommes et des activités
+        1.6 Axes de communication et transports
+    2 Histoire
+        2.1 Préhistoire, protohistoire et Antiquité
+        2.2 Naissance, crises et transformations du royaume de France au Moyen Âge
+        2.3 De la Renaissance à la monarchie absolue (XVIe au XVIIIe siècle)
+        2.4 Révolutions, Républiques et Empires (1789-1914)
+        2.5 La France dans les deux guerres mondiales (1914-1945)
+        2.6 Depuis la Libération
+    3 Politique et administration
+        3.1 Organisation des pouvoirs
+        3.2 Découpage territorial et décentralisation
+        3.3 France d’outre-mer
+        3.4 Tendances politiques, partis et élections
+        3.5 La séparation des pouvoirs
+        3.6 Le gouvernement
+            3.6.1 Les ministères
+            3.6.2 La mission d’un ministère en France
+        3.7 Finances publiques
+        3.8 Protection sociale
+        3.9 Défense
+            3.9.1 Principaux organismes
+            3.9.2 Les observatoires et le maintien de la paix
+        3.10 Appartenance à des organisations internationales
+        3.11 Politique étrangère et diplomatie
+        3.12 Symboles républicains
+    4 Population et société
+        4.1 Démographie
+        4.2 Immigration, population étrangère et minorités visibles
+        4.3 Famille, sexualité et égalité des sexes
+        4.4 Langues
+        4.5 Religions
+        4.6 Éducation
+        4.7 Santé
+        4.8 Médias
+        4.9 Sport
+        4.10 Engagement associatif, syndical et politique
+    5 Économie
+        5.1 Revenus de la population et développement humain
+        5.2 Emploi
+        5.3 Principaux secteurs d’activité
+            5.3.1 Agriculture et agroalimentaire
+            5.3.2 Tourisme
+            5.3.3 Commerce et artisanat
+            5.3.4 Industrie
+            5.3.5 Industrie de l'armement
+            5.3.6 Énergie
+            5.3.7 Industrie de l'aéronautique et de l'espace
+            5.3.8 Recherche
+            5.3.9 Finance et assurance
+        5.4 Place de la France dans l’économie mondiale
+    6 Culture
+        6.1 Architecture
+            6.1.1 Classés au patrimoine mondial
+            6.1.2 Bâtiments d’intérêt historique
+        6.2 Arts visuels et plastiques
+        6.3 Littérature et poésie
+        6.4 Arts du spectacle
+            6.4.1 Théâtre
+            6.4.2 Danse
+        6.5 Musique
+        6.6 Chanson populaire
+        6.7 Cinéma
+        6.8 Mode
+        6.9 Gastronomie
+        6.10 Philosophie et science
+        6.11 Influence internationale
+    7 Codes pays
+    8 Notes et références
+        8.1 Notes
+        8.2 Références
+    9 Annexes
+        9.1 Bibliographie
+        9.2 Liens externes
+
+Géographie
+Article détaillé : Géographie de la France.
+Localisation, frontières et superficie
+Articles détaillés : Frontières de la France et Superficie de la France.
+Une carte physique de la France, simplifiée à l’extrême.
+Carte physique simplifiée de la France métropolitaine.
 
-Le groupe international Belge SOLVAY, est un groupe diversifié il est composé de 3 Domaines d'Activités Stratégiques: Chimie, Plastique et Pharmacie
+La partie européenne de la France est appelée France métropolitaine et est située à l’extrémité occidentale de l’Europe. Elle est bordée par la mer du Nord au nord, la Manche au nord-ouest, l’océan Atlantique à l’ouest et la mer Méditerranée au sud-est. Elle est frontalière de la Belgique et du Luxembourg au nord-est, de l’Allemagne et de la Suisse à l’est, de l’Italie et de Monaco au sud-est et de l’Espagne et d’Andorre au sud-ouest. Les frontières au sud et à l'est du pays sont établies dans des massifs montagneux, les Pyrénées, les Alpes et le Jura, la frontière à l'est suit le RhinN 10, tandis que la frontière nord-est ne s'appuie sur aucun élément naturel. La France métropolitaine comprend plusieurs îles, notamment la Corse et des îles côtières. Elle est comprise entre les latitudes 42°19'46" N et 51°5'47" N, ainsi que les longitudes 4°46' O et 8°14'42" E. Sa partie continentale s’étend sur environ 1 000 km du nord au sud et d’est en ouest. La France est également composée de nombreux territoires situés en-dehors du continent européen, couramment appelés France d'outre-mer, qui lui permettent d’être présente dans tous les océans du monde sauf l'océan Arctique. Ces territoires ont des statuts variés dans l'administration territoriale de la France et sont situés :
 
-L'intégration des activités pharmaceutiques au sein du groupe Solvay s'inscrit dans l'évolution historique du groupe et dans une stratégie de croissance durable. Depuis les années 70, Solvay a décidé de développer des activités acycliques, en particulier dans le domaine de la santé, ce qui l'a conduit à de nombreuses acquisitions, avec encore récemment l'acquisition des Laboratoires Fournier (2005). Solvay Pharmaceuticals est devenue une société active, de dimension internationale. Solvay Pharmaceuticals a fortement contribué au développement du Groupe.
+    en Amérique du Nord : Saint-Pierre-et-Miquelon ;
+    en Amérique du Sud : la Guyane ;
+    dans les Antilles : la Guadeloupe, la Martinique, Saint-Barthélemy et Saint-Martin ;
+    dans l’océan Pacifique : la Nouvelle-Calédonie, la Polynésie française et Wallis-et-Futuna, ainsi que Clipperton ;
+    dans l’océan Indien : La Réunion et Mayotte, ainsi que les Îles Éparses, l'Archipel des Kerguelen, l'Archipel des Crozet et les Îles Saint-Paul et Nouvelle-Amsterdam qui forment les Terres australes et antarctiques françaises (TAAF) ;
+    en Antarctique : la Terre AdélieN 11, également incluse dans les TAAF.
 
-Alors que jusque là le groupe raisonnait en termes de croissance durable et veillait au développement de son activité pharmaceutique, on assiste aujourd'hui à un revirement stratégique avec la décision prise le 28 Septembre 2009 de céder l'intégralité des activités Pharmaceutiques. Il est à noter que le DAS Pharmacie est l'activité la plus rentable du groupe (2/3 des bénéfices pour 1/3 du CA).
-La problématique qui s'est alors dégagée a été de savoir pourquoi l'entreprise Solvay a fait le choix de se dégager d'une activité rentable?
+La France possède des frontières terrestres avec le Brésil et le Suriname en Guyane, ainsi qu’avec les Pays-Bas via la partie française de Saint-Martin. La longueur du littoral de la France métropolitaine est de 5 853 km et de 15 945 km, Outre-Mer inclus16.
 
-La décision se caractérise comme une stratégie de recentrage, compte tenu du marché de la pharmacie (concurrence, mutations) et de ses contraintes (financières, sanitaires, légales…) ainsi que des ressources de l'entreprise (taille moyenne).
+Depuis les premières évaluations précises de la superficie de la France métropolitaine à la fin du XIXe siècle, deux valeurs se côtoient, celle issue du cadastre et publiée par l'Insee (543 940 km2 pour la France métropolitaine), ne couvrant pas certaines parties en eau de plus de 1 km2, et celle issue de la carte topographique et publiée par l'IGN (551 695 km2), couvrant toutes les surfaces jusqu'à la laisse de basse mer et valeur officielle. Cette valeur de 551 695 km2 doit néanmoins être considérée comme conventionnelle car elle ne tient pas compte des nombreuses délimitations intervenues après le Traité de Paris (1947), dernier traité international réglant les frontières de la France avec un pays limitrophe, et en particulier de la nouvelle frontière numérique bilatérale élaborée avec les pays limitrophes depuis 2007 dans le cadre de la directive INSPIRE. Cette frontière bilatérale, de précision métrique, est en 2017 entièrement définie à l'exception d'un seul secteur qui affiche encore deux lignes, depuis le Dôme du Goûter jusqu’au nord du Col du Géant, le litige du Mont-Blanc n’étant pas résolu avec l'Italie.
 
-Ce recentrage intervient dans une logique de focalisation stratégique à long terme. Solvay a décidé de désinvestir par cession (sell-off), avec l'intention de se concentrer sur son cœur de métier afin d'assurer sa pérennité sur des marchés dominables (≠Pharmacie structure concurrentielle non favorable) et de renforcer la cohérence de ses activités. Ce revirement s'inscrit donc dans une dynamique d'adaptation et de pérennisation.
+Des différences similaires ressortent pour la France métropolitaine et les DOM qui s'établit à 633 109 km2 pour l'Insee (superficie cadastrale) et à 641 184 km2 pour l'IGN (superficie géodésique). La superficie de la France entière, comprenant les DROM, les COM et les TOMN 12, mais hors Terre Adélie s'établit à 672 051 km2. La France est le 42e plus grand État du monde par sa surface terrestre. C'est aussi le troisième plus grand pays d’Europe, après la Russie et l’Ukraine, ou le deuxième si on inclut les départements ultra-marins, et le plus grand de l’Union européenne.
+Géologie, topographie et hydrographie
+Géologie de la France métropolitaine.
+Articles détaillés : Géologie de la France, Relief de la France et Liste des fleuves de France.
 
-Solvay à donc pour ambition d'affirmer sa position parmi les leaders dans les produits et services de la chimie et du plastique, par croissance interne (forte valeur ajouté) et externe (nouvelles compétences, nouveaux territoires).
+Le territoire métropolitain de la France offre une grande variété d’ensembles topographiques et de paysages naturelsb 1. De vastes parties du territoire européen actuel de la France ont été soulevées lors de plusieurs épisodes tectoniques, notamment la surrection hercynienne à l’ère paléozoïque qui est à l’origine des massifs armoricain, central, morvandeau, vosgien, ardennais et corseb 2. Les massifs alpin, pyrénéen et jurassien sont eux beaucoup plus jeunes, et possèdent des formes moins érodéesb 2 — les Alpes culminent à 4 809 mètres d’altitude au Mont Blanc17. Bien que 60 % des communes soient classées comme présentant des risques sismiques, ceux-ci restent modérés18. Ces massifs délimitent plusieurs bassins sédimentaires, notamment le bassin aquitain au sud-ouest et le bassin parisien au nordb 2 — ce dernier comprend plusieurs régions au sol particulièrement fertile, notamment les plateaux limoneux de la Beauce et de la Brieb 3. En outre, diverses voies de passage naturelles, telles que la vallée du Rhône, permettent des communications aiséesb 4. Les littoraux offrent des paysages assez contrastés ; il s’agit tantôt de retombées de massifs montagneux (la Côte d’Azur par exemple), de plateaux se terminant sur des falaises (la Côte d’Albâtre) ou de larges plaines sableuses (la plaine du Languedoc)b 5. Le réseau hydrographique de la France est principalement organisé autour de quatre grands fleuves, la Loire, la Seine, la Garonne et le Rhôneb 6, auxquels on peut ajouter la Meuse et le Rhin, moins importants en France mais majeurs à l’échelle européenne. Le bassin versant français des quatre premiers correspond à plus de 62 % du territoire métropolitainb 6.
 
-Cette stratégie apparaît comme cohérente face au rude marché de la Pharmacie, mais des incertitudes persistent quant au réinvestissement des sommes dégagées par la vente, mais aussi quant à l'avenir de Solvay sur des marchés enclin à une flambée des prix des matières premières (Progression du CA mais baisse des performances).
-Introduction
+Les territoires ultramarins, de par leur dispersion dans différents océans et continents, présentent tous des caractéristiques topographiques spécifiques. Ils partagent toutefois un certain nombre de points communs, notamment des contraintes, des risques ou des potentialités physiques, à commencer par l'insularité (à l'exception de la Guyane)19. La plupart de ces îles sont d'origines volcaniques, sous la forme d'arcs volcaniques liées à une subduction (la Guadeloupe, la Martinique, Saint-Barthélemy et Saint-Martin dans les Petites Antilles, les îles Matthew et Hunter au sud de l'arc du Vanuatu ou les Îles Loyauté en Nouvelle-Calédonie), de chapelets d'îles formés initialement autour de points chauds sur la lithosphère océanique (les archipels constitutifs de la Polynésie française ou des TAAF, La Réunion, Mayotte dans l'archipel des Comores, Clipperton), de plateaux volcaniques issu de panaches mantelliques (le plateau des Kerguelen dont les terres émergées forment l'archipel du même nom et celui de l'archipel Crozet dans les TAAF) ou de composantes en partie immergées d'un massif montagneux sur la lithosphère continentale (Saint-Pierre-et-Miquelon est ainsi lié à l'orogenèse des Appalaches)20. Les âges plus ou moins anciens des épisodes volcaniques qui ont provoqué leur formation expliquent des degrés divers d'érosion des reliefs, de subsidences, de formations de récifs coralliens et de dépôts calcaires. De ce fait, plusieurs de ces îles conservent un reliquat rocheux plus ou moins élevé des anciens volcans (les « îles hautes », avec ou sans bordure corallienne), qu'ils soient inactifs (dans la plupart des îles hautes de Polynésie française comme Tahiti, les îles Matthew et Hunter en Nouvelle-Calédonie, Wallis-et-Futuna, Mayotte, les îles Kerguelen en TAAF), potentiellement actifs (l'île de la Possession dans l'archipel Crozet et les TAAF), ou actifs (la Soufrière sur Basse-Terre en Guadeloupe, la Montagne Pelée en Martinique, le Piton de la Fournaise à La Réunion, Mehetia dans l'archipel de la Société en Polynésie française, Saint-Paul-et-Amsterdam dans les TAAF)20. C'est dans ces îles hautes que se trouvent les points culminants de l'Outre-mer français. Les deux seuls territoires ultramarins à avoir des sommets dépassant les 2 000 m d'altitude sont La Réunion (culminant au Piton des Neiges à 3 070,5 m) et Tahiti (le mont Orohena atteint 2 241 m). Les îles les plus anciennes ou touchées par d'autres phénomènes géologiques ont des reliefs beaucoup moins élevés et des sols davantage calcaires, ayant pu devenir des presqu'atolls (Clipperton, potentiellement Fatu Huku aux Marquises en Polynésie française), des atolls surélevés (Grande-Terre, Marie-Galante, La Désirade et les îles de la Petite-Terre en Guadeloupe, Saint-Martin et Saint-Barthélemy, les îles Loyauté mais aussi l'île des Pins en Nouvelle-Calédonie, Alofi à Wallis-et-Futuna, Makatea dans les Tuamotu ou Bora-Bora et Huahine dans l'archipel de la Société en Polynésie française, l'île Tromelin dans les îles Éparses de l'océan Indien et les TAAF) ou des atolls (nombreux en Polynésie française, également dans les récifs d'Entrecasteaux en Nouvelle-Calédonie, les îles Éparses de l'océan Indien dans les TAAF)20. Par ailleurs, l'archipel de la Nouvelle-Calédonie présente la particularité parmi les ensembles insulaires de l'Outre-mer français de n'avoir aucun lien avec une activité volcanique, ayant été formé par une série d'obductions du manteau au-dessus d'une partie des terres émergées du microcontinent Zealandia, ce qui explique sa richesse en roches ultramafiques (péridotites) et, par l'altération de ces dernières, en nickel. La Grande Terre, qui constitue la plus grande île française, et l'ensemble des îles qui la prolonge au nord-ouest (Bélep) et au sud-est (l'île des Pins) sont entourées d'une barrière de corrail de 1 600 km de long (le deuxième plus grand ensemble corallien au monde après la Grande barrière de corail) délimitant l'un des plus grands lagons du monde (24 000 km2)20.
 
-A l'heure du développement considérable des nouvelles technologies, biotechnologies ou autres nanotechnologies, le secteur médical est en perpétuel mouvement. Ainsi, avec des efforts en recherche et développement très importants dans ces secteurs et l'accroissement des produits génériques ainsi que des laboratoires, ces derniers n'ont plus seulement comme but de développer des ressources et solutions pour les personnes malades. En effet, un réel business s'est développé autour de ce secteur avec une concurrence mondiale qui s'accroît chaque année dans le cadre d'une augmentation des dividendes versés aux actionnaires, négligeant parfois la vocation première du secteur médical: aider les personnes malades. De ce fait, les sociétés n'ont pas de remords à tester de nouveaux médicaments en contre partie d'une contribution financière sur des étudiants ou personnes désireux d'arrondir leurs fins de mois. En outre, les rachats d'actions ou de sociétés sont de plus en plus fréquents, les commerciaux médicaux sont de plus en plus nombreux et l'augmentation des produits génériques complexifient le domaine du secteur médical de nos jours.
+Seuls territoires continentaux de la France d'outre-mer, la Guyane et la Terre-Adélie, sont tous les deux des composantes de cratons d'âges Précambriens où prédominent les roches métamorphiques (respectivement le plateau des Guyanes et celui d'Antarctique oriental) et, pour leurs littoraux comme pour les sols immergés, de marges continentales. Toutes deux présentent également le point commun d'être recouvertes, pour une grande majorité de leurs territoires, de milieux naturels spécifiques très peu touchés par les activités humaines : la forêt amazonienne pour la première et l'inlandsis de l'Antarctique pour la seconde20.
 
-En 2010, la France a consacré 2,2% du PIB pour la R&D, soit près de 30 milliards d'euros, en augmentation de 5,5% par rapport à 2009. L'union européenne s'est fixée un objectif de croissance de 3% par an dans le but de rattraper le retard par rapport aux Etats-Unis. Le budget de recherche et développement dans le secteur privé en France est de 5 milliards d'euros pour l'année courante. Cette faible croissance des dernières années à conduit à la délocalisation de nombreuses entreprises dans d'autres pays au début du XXIème siècle.
+La France dispose de 11 millions de km² d’eaux marines sous sa juridiction, dans trois océans et à 97 % en outre-mer21.
+Climat
+Carte des climats de France métropolitaine hors Corse en 2010.
+Article détaillé : Climat de la France.
 
-Dans le cadre de notre sujet de recherche, nous étudierons la position du groupe international SOLVAY qui s'est récemment séparée d'un de ses trois domaines d'activités stratégiques, le secteur pharmaceutique. Ce domaine qui était rentable pour la société Belge. Après avoir présenté ce groupe diversifié, nous présenterons les cours de son action et mettrons en évidence les chiffres clés qui permettent de mieux l'appréhender. Dans une seconde partie, nous nous focaliserons sur le domaine cédé par SOLVAY, le secteur pharmaceutique et nous y étudierons plus précisément ses différentes facettes. Nous pourrons ainsi en dégager des réflexions sur la pertinence de la décision réalisée par les dirigeants de la société.
-I. SOLVAY un groupe diversifié
-1. Présentation du Groupe SOLVAY
+La majeure partie des plaines de France métropolitaine hors Corse sont situées dans le domaine océanique désigné par Cfb, Cwb et Cfc dans la classification de Köppen. Une part plus petite du territoire constituée par les plaines ou collines bordant le bassin méditerranéen a un climat méditerranéen désigné par Csa et Csb dans la classification de Köppen. Cependant, le territoire de la France métropolitaine étant relativement étendu, le climat n’y est pas tout à fait uniforme et il est possible de le détailler à un niveau plus fin. On distingue les nuances climatiques suivantes :
 
-Solvay est une société fondée en 1863 par le chimiste Ernest Solvay. Le groupe fut le premier à développer la production du bicarbonate de sodium ainsi que l'utilisation de l'électrolyse.
+    le climat océanique strict est très marqué à l’ouest. Il s’étend de la Flandre au Pays basque, sur une bande côtière de quelques dizaines de kilomètres (la limite est difficile à définir), plus étroite au nord et au sud, plus large en Bretagne qui est concernée en quasi-totalité par ce climat.
+        le climat du Sud-Ouest est océanique, mais plus chaud car plus au sud, on parle alors plus précisément de climat océanique aquitain22.
+        le climat de la façade nord-ouest est océanique mais plus frais que le climat océanique aquitain ; l'intensité des vents d'ouest y est beaucoup plus forte.
+    en s’éloignant du littoral, le climat est toujours à dominante océanique mais il voit ses caractéristiques se modifier quelque peu. Dans le bassin parisien et plus encore dans les bassins intra montagnards, l’amplitude saisonnière devient un peu plus forte, les pluies d’automne et surtout d’hiver sont moins marquées ; de ce fait, la majeure partie du territoire connaît un climat qualifié de climat semi-océanique dégradé. Il s'agit d'une zone de transition entre le climat océanique strict et le climat continental, avec une distinction entre :
+        le climat océanique dégradé de plaine au centre-nord, parfois appelé «parisien» car il correspond approximativement au bassin parisien, pour lequel le climat océanique est plus faiblement altéré ;
+        le climat semi-continental au nord-est et au centre-est (Alsace, plaines de Saône ou du moyen-Rhône, plaines dauphinoises, auvergnates ou savoyardes) aux caractéristiques encore plus modifiées par le voisinage des massifs montagneux.
+    du fait de la disposition des masses d’air, particulièrement en été, et des bordures montagneuses qui l’isolent quelque peu du reste du territoire, le pourtour méditerranéen et la basse vallée du Rhône, balayés par le mistral et la tramontane, connaissent un climat méditerranéen.
+    le climat montagnard est aussi présent, principalement en altitude dans les Alpes, les Pyrénées, le Massif central, les Vosges, le Jura et la montagne corse.
 
-SOLVAY est donc un groupe chimique et pharmaceutique international dont le siège se trouve à Bruxelles. Il est présent dans 50 pays et emploie plus de 29.000 personnes dans les secteurs d'activités: Chimie, Plastique et Pharmaceutique.
+Le climat de la France métropolitaine est fortement influencé par l’anticyclone des Açores, mais également par le Gulf stream comme le reste de l’Europe de l'Ouest23, avec des variantes régionales ou locales assez marquées. La France métropolitaine connaît des événements climatiques aux conséquences importantes : des tempêtes (celles de décembre 1999 ont abattu 7 % des arbres des forêts françaisesb 7), des canicules (la canicule européenne de 2003 fit 15 000 mortsb 7), des incendies et des inondations. Une grande partie de la France d’outre-mer est également soumise à des climats tropicaux (avec de fortes disparités)b 8, auxquels il faut ajouter le climat équatorial de la Guyane24, le climat subarctique de Saint-Pierre-et-Miquelon25 et les climats océanique et polaire26 des Terres australes et antarctiques françaises. La température moyenne en France s’est élevée de 0,1 °C en moyenne par décennie au cours du XXe siècleb 9.
+Paysages et environnement
 
-Aujourd'hui, SOLVAY est un groupe international qui intervient dans l'industrie chimique et pharmaceutique, il s'est développé, dans plus de 50 pays, emploie 29000 employés dans le monde. Le siège se trouve à Bruxelles, en Belgique.
+La France métropolitaine possède une grande variété de paysages, avec des plaines agricoles ou boisées, des chaînes de montagnes plus ou moins érodées, des littoraux diversifiés et des vallées mêlant ville et nature. La France d’outre-mer possède quant à elle une importante biodiversité, par exemple dans la forêt équatoriale guyanaise ou dans les lagons de Nouvelle-Calédonie27. La France est un des pays les plus boisés d’Europe occidentale, les forêts occupant 28 % de la surface nationaleb 10. La superficie forestière en métropole est constituée de 65 % de feuillus, 22 % de conifères et 13 % de peuplement mixte28. Les forêts publiques (domaniales, communales) et privées occupent respectivement 25 % et 75 % de la propriété forestière métropolitaine.
 
-Le groupe, qui a une activité industrielle importante dans les secteurs d'activités: Chimie, Plastique et Pharmaceutique, veille également à la protection de l'environnement tout au long du cycle de vie du produit dans le cadre d'une prise en compte active du développement durable. Chacun est d'ailleurs sensibilisé à ce sujet dans le code de conduite de la société «One group, One code, One path».
+    La pointe du Van, à l’extrémité occidentale de la Bretagne.
 
-Depuis le 15 Février 2010, SOLVAY s'est réorienté sur 2 axes stratégiques (Chimie, Plastique) avec la revente de l'activité pharmaceutique à la société Abott dans le cadre d'un recentrage des activités de la société Belge. La plus-value après impôt réalisée sur la vente du secteur pharmaceutique est de 1,7 milliards d'euros. La société a pour but de réinvestir cette somme dans des projets stratégiques en chimie et plastiques. De plus, elle souhaite continuer à développer ses régions qui ont un potentiel de croissance. En attendant les résultats des évaluations sur ces projets, elle compte investir à court terme la trésorerie excédentaire.
-2. Les parties prenantes
+    Le massif alpin du Mont-Blanc.
 
-Le groupe SOLVAY est côté au NYSE Euronext à Bruxelles, il est détenue à 30,07% par Solvac, 3,05% est détenu par Solvay Stock Option Management et 2,94% est détenue par Blackrock.
+    Le village d’Usson, Massif central.
 
-Il est a souligner que M. Patrick Solvay est administrateur de la holding Solvac est détient 5,27% du Capital de celle-ci.
+    La plage de Sainte-Anne, en Guadeloupe.
 
-àLien étroit entre Solvac et Solvay (Famille Solvay)
-3. Performance Globale
+    Torrent de haute montagne, Haute-Maurienne.
 
-Quant à l'analyse de la performance globale et à la projection de la société sur les prochaines années, nous avons retenu les informations les plus pertinentes (d'après l'étude des analystes d'infinancials: www.infinancials.com, des données fournies par www.bourse.lesechos.fr, ainsi que des données du Groupe Solvay: www.solvay.com).
-Voici tout d'abord les différentes évolutions des chiffres d'affaires et résultats opérationnels entre 2008 et 2009:
+    Le glacier de Cook, Iles Kerguelen.
 
-CA 09
+    Falaises d'Étretat, Normandie.
 
-∆% CA 08/09
+    Les étangs et forêts de Sologne.
 
-Resultat opérationnel 09
+    Baie d'Upi à l'île des Pins, Nouvelle-Calédonie.
 
-∆% Resultat opérationnel 08/09
+    Châtenois, Alsace.
 
-Pharmaceutique
+    Baie du Mont-Saint-Michel, Normandie.
 
-2791
+    Pâturages, Creuse.
 
-3%
+    Bora Bora et son climat tropical.
 
-649
+    Aiguille du Dru, Haute-Savoie.
 
-29%
+    Champ de lavande en Provence.
 
-Chimique
+    Lac des Perches, Massif des Vosges, Alsace.
 
-2713
+    Vignoble de la côte de Beaune, Bourgogne.
 
--12%
+    Calanques de Piana, Corse.
 
-246
+    Forêts primaires des Alpes internes, Savoie.
 
-3%
+    Forêt tropicale amazonienne, Guyane.
 
-Plastique
+	Cliquez sur une vignette pour l’agrandir.
 
-2982
+Cette diversité des paysages et des écosystèmes est menacée par la fragmentation écologique des milieux due à un dense réseau routier29 , par le développement horizontal de l'urbanisation qu'il favorise, par l’artificialisation des côtes et par la pollution de son eau et de ses sols. Un tiers des eaux de surface sont de mauvaise voire de très mauvaise qualité, principalement à cause des pollutions industriellesb 11 ; les pollutions agricoles liées à l’usage d’engrais et de pesticides ont quant à elles fortement détérioré la qualité des nappes phréatiques dans plusieurs régions, en particulier en Bretagneb 12. La littoralisation du peuplement et des activitésb 13 entraîne une extension et une densification du bâti sur les côtesb 14, malgré la loi littoral de 1986 et l’intervention du Conservatoire du littoralb 15 ainsi que le caractère inondable de certains secteurs. Quant aux infrastructures de transport, notamment routières, elles exposent leurs riverains à une pollution atmosphérique, sonore et visuelle importante29. Néanmoins, les pouvoirs publics tentent depuis plusieurs décennies de répondre à ces défis environnementaux. Aux réserves naturelles et aux parcs nationaux se sont ajoutés depuis 1968 les parcs naturels régionaux30, qui mêlent conservation et mise en valeur du patrimoine naturel et culturelc 1 et couvrent en 2007 13 % du territoire français31. Six agences de l’eau ont été mises en place pour gérer et protéger les ressources en eau du paysb 11. Grâce à une politique de limitation de l’usage des produits pétroliers et à l’importance de l’énergie nucléaire, les émissions françaises de CO2 par tête sont inférieures à celles de la plupart de ses voisins européens, et a fortiori de celles des États-Unis32. Cependant, selon une étude du ministère de l’Écologie, de l’Énergie, du Développement durable et de la Mer publiée en 2010, « sur plusieurs points, le bilan environnemental demeure préoccupant, voire se détériore »33.
 
--19%
+Avec une empreinte écologique par habitant de 5,1 hectares globaux (Hag) et une biocapacité par habitant de trois Hag en 2012, la France est en déficit écologique34.
+Répartition spatiale des hommes et des activités
+Article détaillé : Aire urbaine (France).
+Ici figure une carte démographique de la France, montrant les densités de population par département et faisant figurer la « diagonale du vide » et la ligne Le Havre-Marseille.
+Carte synthétique de la répartition de la population en France métropolitaine en 2010. Sont indiquées les densités de population par département, les 18 aires urbaines de plus de 400 000 habitants, la ligne Le Havre-Marseille et les limites approximatives de la « diagonale du vide ».
 
-73
+         + de 5 000 hab/km2
+         de 300 à 1 000 hab/km2
+         de 150 à 250 hab/km2
+         de 100 à 150 hab/km2
+         de 70 à 100 hab/km2
+         de 40 à 70 hab/km2
+         - de 40 hab/km2
 
--72%
-* les chiffres ci-dessus sont en millions d'euros/Source: infinancials.com
+Densité de population par km2 dans la partie européenne de la France en 2009.
 
-Ci-dessus, l'évolution du chiffre d'affaire et du résultat opérationnel entre 2008 et 2009. On peut facilement observer sur ces données calculées à partir du rapport 2009 de Solvay, que l'activité pharmaceutique a été en forte progression aussi bien en termes de ventes que de résultat opérationnel. Les activités chimiques et plastiques, quant à elles, en régression considérables au niveau des ventes ainsi qu'en résultat opérationnel pour l'activité plastique, ont en partie été affectées par la crise mondiale récente. Seulement le secteur pharmaceutique permet de rétablir ces valeurs peu favorables durant l'année 2009. De plus, d'après le rapport 2009 de SOLVAY, la légère évolution du résultat opérationnel du secteur chimique a été induite par la diminution des coûts fixes et coûts énergétiques.
+La France métropolitaine est marquée par des déséquilibres spatiaux multiples. D’une part, elle possède l’originalité d’avoir une capitale six fois plus peuplée que la deuxième aire urbaine du paysN 13, regroupant un quart des étudiantsI 2 et la quasi-totalité des sièges de grandes entreprises du pays35. D’autre part, la ligne Le Havre–Marseille est souvent considérée comme la limite entre un ouest longtemps resté agricole et qui bénéficie actuellement d’un important essor démographique et économiquen 1, et un est à l’industrie et à l’urbanisation anciennes, aujourd'hui en déclin. Enfin, des Ardennes au nord-est aux Landes au sud-ouest se dessine une « diagonale des faibles densités », caractérisée par un peuplement faible comparé au reste du pays et une économie souvent en difficulté36. Après un long exode rural au XIXe siècle et jusque dans la deuxième moitié du XXe sièclen 2, le solde migratoire des campagnes françaises est redevenu positif dans les années 1990n 1. L’essentiel de la croissance urbaine se fait dans les zones périurbaines, de plus en plus éloignées de l’agglomération-centren 2. Le tableau ci-dessous liste les principales villes du pays en 2015, classées par défaut en fonction de la population de leur aire urbaine (plus de 500 000 habitants).
+Ville 	Aire urbaine37 	Pôle urbain37 	Commune38
+Paris 	12 532 901 	10 708 009 	2 206 488
+Lyon 	2 291 763 	1 639 558 	513 275
+Marseille et Aix-en-Provence 	1 752 398 	1 585 498 	861 635
+142 668
+Toulouse 	1 390 954 	948 433 	471 941
+Bordeaux 	1 215 769 	904 359 	249 712
+Lille 	1 184 701 	1 039 397 	232 741
+Nice 	1 005 891 	943 354 	342 522
+Nantes 	949 316 	633 690 	303 382
+Strasbourg 	780 515 	461 101 	277 270
+Rennes 	719 840 	330 871 	215 366
+Grenoble 	690 050 	512 308 	160 649
+Rouen 	663 743 	467 133 	110 169
+Toulon 	622 895 	569 793 	167 479
+Montpellier 	599 365 	428 909 	277 639
+Douai et Lens 	539 715 	504 537 	39 989
+30 413
+Avignon 	527 731 	456 042 	92 130
+Saint-Étienne 	517 585 	373 130 	171 057
+Axes de communication et transports
+Article détaillé : Transport en France.
 
-Le secteur pharmaceutique a de nombreux produits phares dans différentes spécialisations comme les vaccins antigrippaux (Influac), la gynécologie (Duphaston, Prometrium), la cardiométabollique (Tricor, Liphantyl) ou encore la neuroscience (Serc). Ces produits sont à forte valeur ajoutée pour le groupe. Ainsi, l'acquisition de filiales et le développement de la société dans des pays en voie de développement ont contribué à la plus-value réalisée lors de la cession.
+En raison de sa situation de carrefour, la France est un pays de passageb 16. Elle est en effet le passage obligé pour les hommes et les marchandises circulant par voie terrestre entre la péninsule Ibérique et le reste de l’Europe ainsi que, depuis l’ouverture en 199439 du tunnel sous la Manche, entre le Royaume-Uni et le continentb 16. Héritages de l’histoire, les réseaux de transports français sont très centralisés autour de Parisb 17 ; cette centralisation est particulièrement forte dans les transports ferroviaires et aériens, même si elle commence à diminuer40.
+Photographie d’un TGV Duplex.
+Un TGV Duplex sur la LGV Méditerranée.
 
-2009
+Le principal moyen de transport utilisé en France est la route, qui représentait, en 2014, 83 % des trafics voyageurs et 85 % des trafics marchandisesN 14,41. La France compte près d' 1,1 million de kilomètres de routes en 2014, dont la quasi-totalité est revêtue42. Depuis la Libération, la France s’est dotée d’un réseau autoroutier étendu, qui totalise 11 560 km en 201442. Depuis quelques décennies, les politiques publiques s’attachent à réduire les accidents mortels sur la route, dont les principales causes identifiées sont la vitesse et l’alcoolj 1, et cherchent à promouvoir d’autres moyens de transport moins polluants que la voiturei 1. Le réseau ferré national, quant à lui, date pour l’essentiel du milieu et de la fin du XIXe siècle ; en 2009, il compte 29 473 km de lignes, dont plus de la moitié sont électrifiées43. L’essentiel du trafic est géré par l’entreprise publique SNCF, sur des lignes appartenant au gestionnaire d’infrastructure SNCF Réseau, un des trois EPIC composant la société depuis le 1er janvier 2015. Depuis les années 1980, le trafic voyageurs augmente en France grâce à la prise en charge par les régions du trafic régional et local et surtout grâce à la naissance et à l’extension continue du réseau de lignes à grande vitesse parcouru par le TGV44. En revanche le trafic fret est en constante diminution. Par ailleurs, les principales villes du pays sont dotées d’un réseau ferroviaire urbain, de type métro (Paris, Lyon, Lille, Marseille, Toulouse et Rennes), tramway (Nantes, Strasbourg, Bordeaux, Grenoble, Montpellier et Nice notamment) ou RER (Paris) ; le métro de Paris, né en 1900, forme l’un des réseaux les plus anciens et denses au monde45. Quant au transport aérien, il est particulièrement centralisé : les deux aéroports parisiens — Roissy-Charles-de-Gaulle et Orly — ont accueilli 95,4 millions de passagers en 2015, quand le premier aéroport de province, Nice-Côte d’Azur, en accueillait 12 millions46. Les aéroports de province sont en effet concurrencés par le TGV pour le trafic national, tandis que les aéroports parisiens accueillent la quasi-totalité du trafic long-courrierb 18. La France est également le siège de l'une des premières compagnies aériennes mondiales en nombre de passagers transportés (Air France-KLM47) et du premier constructeur aéronautique civil (Airbusb 19,N 15) d’Europe, deuxième du monde. D’autres modes de transport sont utilisés en France, mais ils sont plus marginaux. Le trafic fluvial assure une part négligeable du trafic voyageurs et très secondaire du trafic marchandises, en raison principalement de l’inadaptation d’une grande partie du réseau au trafic moderne48. Le trafic maritime est important : Calais est le deuxième port mondial pour le trafic de passagers. En ce qui concerne le fret, les ports de Dunkerque, du Havre, de Nantes–Saint-Nazaire et de Bordeaux font pâle figure face à leurs rivaux de la mer du Nord comme ceux de Rotterdam, d'Anvers et de Hambourg et sont désormais largement devancés par ceux d'Amsterdam et de Brême-Bremerhaven49 ; le port de Marseille, au premier rang français par son trafic, et un des premiers terminaux d'Europe pour les croisières, est le deuxième port de la Méditerranée, derrière Algésiras (Espagne)49.
 
-Prévisionnel 2010
+Quant à la bicyclette, elle connaît aujourd’hui une nouvelle jeunesse, notamment en réponse à la préoccupation environnementale des Français, grâce au développement des réseaux urbains de pistes cyclables et à la mise en place de vélos en libre-service dans plusieurs villes du paysi 2.
+Histoire
+Articles détaillés : Histoire de France, Chronologie de la France et Formation territoriale de la France.
+Carte animée montrant l’évolution du territoire français métropolitain de 985 à 1947. Après s’être petit à petit accru au Moyen Âge et aux Temps Modernes, la France a connu sa dernière extension territoriale majeure et définitive en 1860, avec l’acquisition de Nice et de la Savoie.
+Évolution du territoire de la France métropolitaine, de 985 à 1947.
 
-∆% 09/10
+La France métropolitaine actuelle occupe la plus grande partie de l'ancienne Gaule celtique, conquise par Jules César au Ier siècle av. J.-C., mais elle tire son nom des Francs, un peuple germanique qui s’y installa à partir du Ve siècle. La France est un État à l’unification ancienne, et fut l’un des premiers pays de l’époque moderne à tenter une expérience démocratique.
+Préhistoire, protohistoire et Antiquité
+Lascaux cave paintings: a horse from Dordogne facing right brown on white background
+Un des chevaux de Lascaux, Dordogne, environ 18.000 av.J.-C.
+Articles détaillés : Préhistoire de la France, Chronologie de la France à la Préhistoire (jusqu’à -1800), Gaule et Gaule romaine.
 
-Investissements et acquisitions
+La présence humaine sur le territoire de la France actuelle remonte au Paléolithique inférieur ; les traces les plus anciennes de vie humaine datent d’il y a environ 1 800 000 anse 1. L’homme est alors confronté à un climat rude et variable, marqué par plusieurs ères glaciaires qui modifient son cadre de viee 1. La France compte un nombre important de grottes ornées du Paléolithique supérieur, dont deux des plus célèbres sont la Grotte de Lascauxe 1 (Dordogne, -18 000 environ50) et la Grotte Chauvet (Pont d'Arc, -36 000 environ). Vers −10 000, à la fin de la dernière ère glaciaire, le climat s’adoucite 1. À partir de −7 000 environ, l’Europe occidentale entre dans le Néolithique et ses habitants se sédentarisent, même si l’évolution est différente selon les régionse 2. Après un fort développement démographique et agricole aux IVe et IIIe millénaires, la métallurgie fait son apparition à la fin du IIIe millénaire, d’abord avec le travail de l’or, du cuivre et du bronze, puis avec celui du fer au VIIIe sièclee 3. En -600, des Grecs originaires de la ville de Phocée fondent la ville de Marseille, au bord de la Méditerranéee 4 ; à la même époque, quelques peuples celtes pénètrent dans le territoire de la France actuelle, mais cette occupation ne se généralise à la totalité de ce territoire qu’entre les Ve et IIIe siècles av. J.-C.e 5. La notion de Gaule, Γαλατία en grec51, apparaît alors ; elle correspond aux territoires de peuplement celte compris entre le Rhin, les Pyrénées, l’Atlantique et la Méditerranéee 6. Les Hébreux l'appellent Tzarphat.
 
-567
+Les peuples originaux des Gaules ont inventé la roue, le char, les tonneaux et le travail des métaux52, ont construit des routes et frappent des monnaies distinctes (Arvernes, Éduens..) et communiquent à travers des voies terrestres denses et développent une agriculture en faisant des peuplades prospères, avec des aristocrates, des artisans et joailliers, des cavaliers et des marchands actifs. Leur population totale est estimée entre 3,5 millions et 8 millions d'habitants, soit quatre à huit fois plus que la péninsule romaine. Ces divers peuples gaulois sont aussi en concurrence et en vassalité économique les uns par rapport aux autres.
 
-673
+La partie méridionale des Gaules est appelée 'Provincia' (Provence) par Rome. Et elle est de plus en plus soumise aux influences grecques et romainese 7.
+La Maison Carrée est un temple de la ville gallo-romaine de Nemausus (aujourd'hui Nîmes) et est l'un des vestiges les mieux conservés de l'Empire romain.
 
-18,7%
+À partir de -125, le sud des Gaules (57 peuples gaulois) est peu à peu conquis par la République romaine, suite à la victoire de Rome sur les Allobroges et les Arvernes. Rome y fonde les villes d’Aix-en-Provence, Toulouse et Narbonnee 8. En -58, Jules César prend prétexte d'une demande d'aide des Éduens pour se lancer à la conquête du reste de la Gaule. Il est battu à Gergovie (à proximité de l'actuelle Clermont-Ferrand) puis vainc à Alésia grâce à des alliés gaulois et à des mercenaires cavaliers germains en -52 une grande alliance d'une vingtaine de peuples gaulois, dont les Arvernes et les Bituriges Cubes, menée par le chef des Arvernes et chef des gaulois Vercingétorixe 9.
 
-R&D
+Les riches territoires fiscaux nouvellement conquis sont répartis par l'empereur de Rome Auguste en neuf provinces, dont les principales sont la Narbonnaise au sud, l’Aquitaine au sud-ouest, la Lyonnaise au centre et à l'ouest et la Belgique au norde 10. De nombreuses villes sont fondées durant la période gallo-romaine, dont Lyon (Lugdunum) en -43, appelée à être la capitale de la Gaule romainee 11 ; ces villes sont conçues à l’image des villes romaines, avec un forum, un théâtre, un cirque, un amphithéâtre et des thermese 12. Le panthéon romain se superpose aux cultes gaulois sans les faire disparaître, les divinités se confondant peu à peu dans un même syncrétismee 13. Les élites gauloises, commerçants, artisans, érudits et aristocrates vont aussi enrichir Rome.
 
-555
+Au IIIe siècle, la Gaule romaine connaît une crise grave, le limes, frontière fortifiée protégeant l’Empire des incursions germaniques, étant franchi à plusieurs reprises par les Barbarese 14. Le pouvoir romain, pendant ce temps, semble chancelant : un Empire des Gaules est proclamé en 260 et échappe à la tutelle romaine jusqu’en 274e 15. Néanmoins, la situation s’améliore dans la première moitié du IVe siècle, qui est une période de renouveau et de prospérité pour la Gaulee 16.
 
-148
+En 312, l’empereur Constantin Ier se convertit au christianisme ; les chrétiens, persécutés jusque-là, se multipliente 17. Toutefois les invasions barbares reprennent à partir de la seconde moitié du IVe sièclee 18 ; le 31 décembre 406, les Vandales, Suèves et Alains franchissent le Rhin et traversent la Gaule jusqu’en Espagnee 19. Au milieu du Ve siècle, les Alamans et les Francs, deux peuples païens, s’installent au nord-est de la France actuelle et exercent une forte pression sur les généraux romains qui subsistent dans le nord-est de la Gaulee 20.
+Naissance, crises et transformations du royaume de France au Moyen Âge
+Articles détaillés : Royaumes francs, Mérovingiens, Carolingiens, Capétiens, Royaume de France, Capétiens directs, Maison capétienne de Valois et Liste des monarques de France.
+animated gif showing expansion of Franks across Europe
+Expansion des Francs de 481 à 843/870.
+Une représentation artistique du baptême de Clovis, dans la Sainte-Chapelle à Paris.
+Le baptême de Clovis, représenté dans la Sainte-Chapelle à Paris (anonyme).
 
--73,3%
+La conversion au christianisme du chef franc Clovis, baptisé à Reims le 24 décembre 496 par l'évêque Saint Rémi, fait de lui l’allié de l’Église et lui permet de conquérir l’essentiel de la Gaule au tournant des Ve et VIe sièclese 21. La fusion des héritages gallo-romains, des apports germaniques et du christianisme est longue et difficile, les Francs constituant originellement une société guerrière aux lois très éloignées du droit romain et des principes chrétiense 22. Tandis que la faiblesse démographique que connaît le Royaume des Francs entraîne un déclin des villes, le christianisme s’installe par la fondation d’églises rurales et surtout de très nombreux monastèrese 23. Si le pouvoir de Clovis semblait originellement solide, la dynastie mérovingienne doit bientôt faire face à de graves difficultése 24 ; elle disparaît en 751 lorsque Pépin le Bref est sacré roi des Francs, fondant ainsi la dynastie carolingiennee 25.
 
-Total
+Pépin le Bref et son fils Charlemagne agrandissent considérablement le royaume des Francs, qui s’étend à la fin du VIIIe siècle sur plus d’un million de kilomètres carrése 26. L’immense empire carolingien est contrôlé par une administration centralisée basée à Aix-la-Chapelle, des comtes représentant Charlemagne dans tout l’empire et surveillés par les missi dominicie 27. Charlemagne, couronné en 800 empereur d’Occident, relance les arts libéraux dans l’éducation et le Palais d’Aix-la-Chapelle accueille une activité intellectuelle et artistique de haut niveaue 28. Néanmoins, après la mort de l’empereur, les comtes et les vassaux de celui-ci parviennent peu à peu à rendre leur fonction héréditaire, et les petits-fils de Charlemagne se partagent l’Empire au traité de Verdun (843) ;
+Joan of Arc in plate armor holding sword facing left with gilded background
+Jeanne d'Arc conduit l'armée française à plusieurs victoires importantes pendant la Guerre de Cent Ans et ouvre la voie vers la victoire finale.
 
-1122
+Charles obtient la Francie occidentale, qui correspond approximativement aux deux tiers occidentaux de la France actuelle et dont les frontières varieront peu jusqu’à la fin du Moyen Âgee 29. Le nouveau royaume doit toutefois affronter trois vagues d’invasions différentes aux IXe et Xe siècles, menées par les musulmans, les Vikings et les Hongroise 30. À la même époque, les pouvoirs des anciens comtes continuent d’augmenter tandis que le pouvoir royal diminuee 31 ; une société féodale se met en place, caractérisée par sa division en trois ordres : le clergé, la noblesse et le Tiers étate 32.
 
-821
+En 987, Hugues Capet est élu roi par ses pairs, c'est-à-dire les nobles du royaumeN 16 ; la monarchie redevient héréditairee 33 et les Capétiens règneront sur la France pendant plus de huit siècles. Néanmoins, les premiers rois capétiens ne contrôlent directement qu’une portion très faible du territoire français, appelée le domaine royal, et certains de leurs vassaux sont beaucoup plus puissants qu’euxe 34. Au XIIe siècle, le pouvoir royal commence à s’affirmer contre les princes du royaume, mais doit faire face à partir des années 1150 à la naissance d’un « empire Plantagenêt » regroupant dans un même ensemble l’Angleterre et le tiers ouest de la Francee 35. Le royaume capétien atteint sa première apogée au XIIIe siècle, la monarchie reprenant le pouvoir qu’elle avait perdue 36 tandis que l’art et la culture française s’affirment en Europee 37. Philippe Auguste (1180-1223) parvient à conquérir l’essentiel des possessions françaises des Plantagenêt, mettant temporairement fin à la menace anglaise et agrandissant considérablement le domaine royal par la même occasione 38. Louis IX (1226-1270) se comporte en arbitre de la chrétienté et participe aux septième et huitième croisades, ce qui l’amènera à être très vite canonisé par l’Église catholiquee 39. Le XIVe et la première moitié du XVe siècle voient la France plonger dans une crise grave, dont les expressions sont multiplese 40. La guerre de Cent Ans, menée contre l’Angleterre et née d’un problème de succession à la tête du Royaume de France, ravage le payse 41. Toutefois la crise des XIVe et XVe siècles n’est pas seulement politique ou militaire : elle est aussi démographique — la peste noire tue à partir de 1347 au moins un tiers de la population du royaumeN 17 —, sociale — les insurrections paysannes et urbaines se multiplient —, économique et religieusee 42. Néanmoins, si la monarchie est également touchée par cette crise, elle en sort renforcée : le pouvoir central, qui s’est déplacé dans la vallée de la Loire, se dote de nouvelles institutions et met en place une armée et un impôt permanentse 43.
+De la Renaissance à la monarchie absolue (XVIe au XVIIIe siècle)
+Articles détaillés : Société d'Ancien Régime, Renaissance, Guerres de religion (France), Maison capétienne de Bourbon, Premier empire colonial français, Histoire de France au XVIIe siècle et Lumières (philosophie).
+painting of St. Bartholomew's Day massacre, convent church of the Grands-Augustins, the Seine and the bridge of the Millers, in the center, the Louvre and Catherine de' Medici.
+Le massacre de la Saint-Barthélemy (1572) a été le point culminant des guerres de religion auxquelles l'édit de Nantes a mis un terme (1598).
+Territoire du Premier empire colonial français en Amerique appelé la Nouvelle-France (1534-1763).
+Louis XIV of France standing in plate armor and blue sash facing left holding baton
+Louis XIV, le « roi soleil » était le monarque absolu de la France et en a fait la première puissance européenne.
 
--26,8%
-* les chiffres ci-dessus sont en millions d'euros/Source: infinancials.com
+À partir de 1494, les souverains français mènent de multiples guerres en Italie puis contre l’empereur Charles Quint53. Néanmoins, les règnes de François Ier (1515-1547) et de son fils Henri II (1547-1559) sont surtout marqués par un renforcement du pouvoir royal, qui tend à devenir absolu54, et par une Renaissance littéraire et artistique fortement influencée par l’Italie55. En 1539, l’ordonnance de Villers-Cotterêts fait du français la langue administrative et judiciaire du Royaumee 44. Toutefois, l’unité de la France autour de la personne du roi est bousculée dans la deuxième moitié du XVIe siècle par le problème religieux : entre 1562 et 1598, huit guerres de religion se succèdent entre catholiques et calvinistese 45. Cette crise religieuse se double d’une crise économique et surtout politique56. En 1598, le roi Henri IV (1589-1610) met fin aux guerres de religion par l’édit de Nantes qui donne une liberté de culte partielle aux protestantse 46.
 
-Sur ce tableau, on peut observer la projection de la société quant à l'année 2010 concernant les investissements et la recherche et développement. On peut constater que la société va continuer à se développer en comptant acquérir d'autres filiales. Suite à la vente du secteur pharmaceutique à Abott, la R&D va considérablement diminuer. En effet, la recherche médicale nécessite beaucoup de moyens pour la recherche afin de développer de nouveaux médicaments.
+Louis XIII (1610-1643) et ses ministres Richelieu et Mazarin doivent faire face à l’opposition de nobles soucieux de reprendre leurs anciens pouvoirse 47. À la même époque, la France mène plusieurs guerres victorieuses (dont la Guerre de Trente Ans) et commence à former un premier empire colonial, principalement en Nouvelle-France, aux Antilles et sur la route des Indese 48. Louis XIV affirme plus que jamais le caractère absolu de son pouvoirN 18 : le « Roi-soleil » se considère comme le « lieutenant de Dieu sur Terree 49 » et fait construire le château de Versailles, symbole de son pouvoire 50. Il s’entoure d’artistes et de savants et travaille à l’unité religieuse de son royaumee 51 en reprenant la persécution des protestants et en révoquant l’édit de Nantes par l'édit de Fontainebleau (1685). Malgré la situation financière critique de la monarchie, Louis XIV mène plusieurs guerres face à une Europe coalisée contre luie 52 tandis que le marquis de Vauban fait construire un réseau de villes fortifiées aux frontières du Royaumee 53. Si ces guerres aboutissent dans un premier temps à des victoires françaises, plusieurs défaites militaires et des famines ternissent la fin de son règnee 54.
 
-Suite à l'étude de la performance des concurrents, et grâce aux ressources d'infinancials.com en sélectionnant les critères suivant: EBITDA, rendement de la dette, revenus net, valeur des actions, volatilité des actions. Nous avons pu caractériser la société comme suiveuse.
-Voici, selon les analystes d'infinancials.com, la notation attribuée à la société en comparaison de la concurrence mondiale:
+Louis XV (1715-1774), arrière-petit-fils et successeur de Louis XIV mène lui aussi plusieurs guerres, aux résultats contrastése 55. En 1763, par le traité de Paris qui met fin à la guerre de Sept Ans, la France abandonne ses possessions en Amérique du Nord, mais acquiert dans la même décennie la Lorraine et la Corsee 56. Pendant ce temps, la France connaît une forte vitalité démographique et économique. La croissance de la production agricole s’accompagne d’une proto-industrialisation, notamment dans le secteur textile, ainsi que d'un essor dans les domaines intellectuel et culturele 57. Toutefois, Louis XVI, qui accède au trône en 1774, se révèle incapable de trouver une solution au surendettement de la monarchie et doit convoquer les états généraux en 1789e 58.
+Révolutions, Républiques et Empires (1789-1914)
+Articles détaillés : Révolution française, Consulat (histoire de France), Premier Empire, Restauration (histoire de France), Monarchie de Juillet, Deuxième République, Second Empire, Troisième République et Second empire colonial français.
+drawing of the Storming of the Bastille on 14 July 1789, smoke of gunfire enveloping stone castle
+La prise de la Bastille, le 14 juillet 1789, est l'un des premiers faits marquants de la Révolution française.
+La partie européenne du territoire de la Première République Française découpé en départements.
 
-SOLVAY
+Les délégués envoyés aux États généraux qui s’ouvrent le 5 mai 1789 outrepassent rapidement les pouvoirs qui leur sont attribués et s’érigent en une Assemblée nationale constituantee 59. Le Roi ne peut alors empêcher l’assemblée constituante de décider l’abolition des privilèges dans la nuit du 4 août puis d’adopter le 26 août la Déclaration des droits de l’homme et du citoyene 60. La devise Liberté, Égalité, Fraternité apparaît dans le débat public, en particulier en 1790 dans un discours de Maximilien Robespierre sur l'organisation de la garde nationale57. Après un essai de monarchie constitutionnelle, la République naît le 22 septembre 1792, et Louis XVI, condamné pour trahison, est guillotiné par jugement de la Convention nationale le 21 janvier 1793e 61. La France révolutionnaire connaît alors plusieurs années de guerres et d’exécutions jusqu’à l’instauration du Directoire en 1795e 62. C'est le 27 pluviôse An II (15 février 1794), que le drapeau tricolore est instauré par la Convention Nationale, par décret indiquant que « le pavillon et le drapeau national seront formés des trois couleurs nationales disposées en trois bandes égales de manière que le bleu soit attaché à la garde du pavillon, le blanc au milieu et le rouge flottant »58.
+painting of Napoleon in 1806 standing with hand in vest attended by staff and Imperial guard regiment
+Napoléon, empereur des Français, et sa Grande Armée a construit un vaste empire à travers l'Europe. Il a aidé à répandre les idéaux révolutionnaires français et ses réformes juridiques ont eu une influence majeure dans le monde entier.
 
-Concurrence mondiale
+Le 9 novembre 1799, le général Napoléon Bonaparte renverse le Directoire par un coup d’État et lui substitue le Consulat ; cinq ans plus tard, il est couronné Empereur des Française 63. Napoléon Ier crée ou réforme de nombreuses institutionsN 19, et ses multiples victoires militaires mettent la moitié de la population européenne sous son contrôle au début des années 1810e 64. Le déclin sera néanmoins rapide : après une éphémère abdication puis un bref retour au pouvoir, l’Empereur est définitivement vaincu à Waterloo le 18 juin 1815e 65. La France entame alors une seconde expérience de monarchie constitutionnelle, pendant laquelle les rois Louis XVIII (1814-1824) et surtout Charles X (1824-1830) remettent en question une partie des acquis de la Révolutione 66. Quelques semaines après avoir conquis Alger, Charles X est renversé en 1830 par les Trois Glorieuses, un mouvement révolutionnaire qui amène sur le trône Louis-Philippee 67. Si ce dernier est alors considéré comme réformateur, la contestation monte bientôt, malgré l’essor économique que connaît la France à cette époquee 68. En février 1848, une nouvelle révolution éclate, dont les objectifs ne sont plus seulement politiques mais aussi sociauxe 69. L’éphémère Seconde République qui est alors mise en place instaure le suffrage universel masculin et abolit l’esclavage dans les colonies ainsi que la peine de mort pour raison politiquee 70 . Toutefois, elle est renversée par son président Louis-Napoléon Bonaparte qui est couronné empereur en 1852e 71.
+Territoire du Second empire colonial français (1815 à 1958, début des indépendances).
 
-Taux de croissance
+Si les premières années du Second Empire sont celles d’un régime autoritaire, Napoléon III entame un tournant libéral en 1860, qui n’empêche pas une montée des oppositions politiques, tandis que le développement industriel et ferroviaire s’accélèree 72. La défaite de la France face à une Allemagne en cours d’unification, en 1870 et 1871, est un double tournant dans l’histoire du pays : l’empereur capitule le 2 septembre 1870 et la République est proclamée le 4, tandis que la Prusse annexe l’Alsace-Lorrainee 73. La défaite française suscite en outre l'épisode dramatique de la Commune de Paris, écrasée en mai 1871 par les troupes gouvernementales. Malgré sa naissance chaotique, la Troisième République est le plus long des régimes politiques qu’a connu la France depuis 1789e 74. Les républicains mettent peu à peu en place leur projet politique : l’école est rendue gratuite, laïque et obligatoire en 1881-1882, les libertés de presse et de réunion sont accordées en 1881, le divorce et les syndicats sont autorisés en 1884, et les Églises sont séparées de l’État en 1905e 75. À la même époque, la France se dote d’un vaste Empire colonial, qui sera le deuxième au monde après celui du Royaume-Uni en 1914e 76 : aux possessions en Inde et à l'Algérie viennent s'ajouter au fil des années l'Indochine, les protectorats de Tunisie et du Maroc, l'Afrique équatoriale et occidentale et Madagascar. Si plusieurs crises politiques se succèdent — crise boulangiste, scandale des décorations, scandale de Panama, affaire Dreyfus —, la menace principale pour la République vient désormais de l’extérieur, où la guerre apparaît de plus en plus imminentee 77.
+La France dans les deux guerres mondiales (1914-1945)
+Articles détaillés : Troisième République, Première Guerre mondiale, Entre-deux-guerres, Seconde Guerre mondiale, Régime de Vichy et Gouvernement provisoire de la République française.
+Autochrome of the 114 Infantery regiment in París, on 14 July 1917, with French flag unfurled laying on stacked arms
+Les poilus français ont subi le plus grand nombre de pertes parmi les Alliés dans la Première Guerre mondiale.
 
-1,9
+Par le jeu des alliances, la France entre en guerre au début du mois d’août 1914 contre l’Allemagne, aux côtés du Royaume-Uni et de l’Empire russee 78. La Première Guerre mondiale, qui fait 1,4 million de victimes françaises et entraîne de nombreuses destructions dans le nord-est du pays, se conclut le 11 novembre 1918 en faveur de la Triple-Ententee 79. Outre le retour de l’Alsace-Lorraine, la France recevra une partie des réparations allemandes prévues par le traité de Versailles tout en obtenant des garanties de sécurité. Néanmoins, celles-ci ne suffisent pas à éviter en 1940 une nouvelle invasion par l'Allemagne à la suite de la reconstruction de l'armée allemande et de la remilitarisation de la rive gauche du Rhin.
+Georges Clemenceau est célèbre tant pour sa politique intérieure (notamment la création des Brigades du Tigre) que pour son rôle dans la Première Guerre mondiale. Il a une volonté, une rage de gagner incroyable, il dit : « Ma politique étrangère et ma politique intérieure, c'est tout un. Politique intérieure ? Je fais la guerre. Politique étrangère ? Je fais la guerre. Je fais toujours la guerre. La Russie nous trahit ? Je continue à faire la guerre. La malheureuse Roumanie est obligée de capituler ? Je continue à faire la guerre, et je continuerai jusqu'au dernier quart d'heure, car c'est nous qui aurons le dernier quart d'heure ! ». Une fois l’Allemagne vaincue, il est surnommé « Père la Victoire ». Guillaume 2, dira dans ses mémoires : ce ne sont pas les Alliés qui nous ont battus, mais c'est le petit vieillard de Clémenceau!
+Une carte représentant la division du territoire français, durant la Seconde Guerre mondiale, entre une zone libre correspondant à un large tiers sud-est du pays et une zone occupée correspondant au nord du pays et au littoral atlantique.
+Durant la Seconde Guerre mondiale, le territoire continental ou la France métropolitaine était divisé entre une « zone occupée » au nord et à l'ouest et une « zone libre » au sud, auxquelles s’ajoutaient d’autres zones de taille plus restreinte au statut spécial.
 
-4,2
+Après quelques années de reconstruction laborieuse, marquée par un effort d'immigration et de productivité pour pallier la pénurie de main-d'œuvre dans les mines, l'acier ou l'automobile, la France peine à retrouver sa vigueur économique d’avant-guerree 80avant de vivre une forte croissance à partir de 1924. Elle sera touchée bien après la plupart des autres puissances par la crise des années 193059. Toutefois, si cette crise est tardive, elle est durable et profonde. Aux difficultés économiques s’ajoute une crise politique, malgré l’espoir suscité par l’arrivée au pouvoir en 1936 du Front populaire60. Finalement, lorsque la France déclare le 3 septembre 1939 la guerre à l’Allemagne nazie, elle sort tout juste de la plus grave crise qu’ait connue la Troisième Républiquee 81.
 
-Valeur de l'entreprise
+Après huit mois sans combats (la « Drôle de guerre »), la Wehrmacht envahit le 10 mai 1940 le nord-est de la France et le maréchal Philippe Pétain demande l’armistice le 22 juine 82. Ce dernier obtient les pleins pouvoirs le 10 juillet, signant ainsi la fin de la Troisième République et la naissance du Régime de Vichy. Celui-ci mène une politique conservatrice, traditionaliste et antisémite et collabore avec le Troisième Reich. Toutefois, la résistance s'organise à l’intérieur et à l’extérieur du payse 83. Le débarquement allié du 6 juin 1944 en Normandie sonne la fin de l'occupation nazie et le début de la Libération de l’Europee 84. Au total, ce conflit aura tué moins de militaires que le précédentN 20 mais les victimes civiles sont nombreuses – au moins 330 000 victimes civiles dont 75 000 Juifs installés sur le territoire français qui ont été tués lors de la Shoah61,N 21 – et les blessures psychologiques et politiques dues à la débâcle de 1940, à la collaboration puis aux règlements de compte lors de l'épuration sont longues à cicatrisere 84.
+Depuis la Libération
+Articles détaillés : Quatrième République, Cinquième République, Histoire de France sous la Cinquième République, Guerre d'Indochine et Guerre d'Algérie.
+animated gif of French colonial territory on world map
+Carte animée de la croissance et du déclin de l'Empire colonial français.
 
-3,4
+Une période de renouveau commence alors pour la Francee 85. Si le général de Gaulle, chef de la France libre, ne peut empêcher l’adoption d’une constitution proche de celle de la Troisième République, l’après-guerre voit la création de la Sécurité sociale et le droit de vote accordé aux femmese 86. La France de la Quatrième République choisit le camp occidental dans la guerre froide qui s’ouvre à cette époque, entame avec difficultés (guerres d'Indochine puis d'Algérie) la décolonisation de l’Asie et de l’Afrique et participe aux débuts de la construction européennee 87. Le pays entame dans le même temps une période de modernisation et de forte croissance économique que l’économiste Jean Fourastié appellera « Trente Glorieusese 88,62 ».
+Charles de Gaulle seated in uniform looking left with folded arms
+Charles de Gaulle a pris une part active à de nombreux événements majeurs du XXe siècle : héros de la Première Guerre mondiale, chef des Français libres pendant la Seconde Guerre mondiale, président de la République, il a facilité la décolonisation, a maintenu la France parmi les puissances majeures et a surmonté la révolte de mai 1968.
 
-5,1
+Le 1er juin 1958, lors d’une grave crise politique liée à la guerre d’Algérie, le général de Gaulle est investi président du Conseil par l’Assemblée nationale avec pour mission de donner à la République une nouvelle constitution : la Cinquième République donne au président des pouvoirs plus larges face au Parlemente 89. Charles De Gaulle poursuit et achève la décolonisation de l’Afrique et affirme l’indépendance de la France face aux États-Unise 90. À cette fin, il dote la France du nucléaire civil et militaire. Mais la crise étudiante et sociale de mai 1968 met en avant l’archaïsme d’une société dont les dirigeants semblent déconnectés des aspirations de la jeunesse. Cependant, de Gaulle réussit à retourner la situation en provoquant la dissolution de l'Assemblée nationale le 30 mai 1968 après laquelle les Français lui donnent une large majorité présidentielle63. Le général de Gaulle démissionne en 1969 à la suite de l'échec du référendum sur la réforme du Sénat et de la régionalisation64. Toutefois le gaullisme se maintient au pouvoir cinq ans de plus, sous la figure du président de la République Georges Pompidoue 91.
 
-Profitabilité
+En 1974 s’ouvre l’ère post-gaulliste, avec l’arrivée d’une personnalité issue du centre-droit, Valéry Giscard d’Estaing, au poste de présidente 92. Alors que la France entre peu à peu dans la crise des années 1970, les premières années de son mandat sont marquées par plusieurs lois actant les mutations de la société française, comme la loi Veil, qui légalise l’interruption volontaire de grossesse (IVG), ou l’abaissement de 21 à 18 ans de l’âge de la majorité civilee 93. Un autre tournant a lieu en 1981, lorsqu’un président socialiste, François Mitterrand, est élue 94. Face à la situation économique qui s’aggrave, celui-ci tente dans un premier temps une politique de relancee 95, tout en adoptant des mesures symboliquement fortes comme l’abolition de la peine de mort65. Si François Mitterrand est réélu en 1988, la France connaît entre 1986 et 1988 puis entre 1993 et 1995 deux périodes de « cohabitation », situation jusque-là inédite où le président n’appartient pas au même parti que son gouvernement et qui offre une lecture nouvelle des institutionse 96. Cette situation se reproduit entre 1997 et 2002, mais de façon inversée, alors qu’un président de droite, Jacques Chirac, est élu en 1995, et que des élections législatives de 1997 amènent le socialiste Lionel Jospin à la tête du gouvernemente 97.
+La France met l'euro en circulation le 1er janvier 1999 et met fin à l'usage du franc français le 1er février 2002.
 
-6,1
+En 2002, la France abandonne sa monnaie nationale pour adopter la monnaie unique européenne66. L’élection présidentielle de 2002 est marquée par l’élimination de Lionel Jospin dès le premier tour au profit de Jean-Marie Le Pen, candidat de l’extrême droite67. Une grande partie des électeurs se reportent alors sur Jacques Chirac qui est réélu67. Les gouvernements Raffarin puis Villepin se soulignent par l’opposition de la France à la guerre d'Irak68. En 2005, une majorité de citoyens vote « non » lors du référendum sur la ratification du traité établissant une constitution pour l’Europe69. Si Nicolas Sarkozy, président à partir de 2007, dirigeait le parti de son prédécesseur au moment de son élection et était membre de son gouvernement, la politique qu’il mène se veut de « rupture70 ». Le gouvernement « d’ouverture » que François Fillon forme avec des personnalités issues non seulement de la droite, mais aussi du centre et de la gauche70, doit cependant faire face à la crise économique venue en 2008-2009 des États-Unis71.
 
-5
+En 2012, le socialiste François Hollande est élu président, après être devenu candidat de son parti à l'issue des premières primaires ouvertes de l'histoire de la République. Avec une majorité socialiste dans les deux chambres du Parlement pour la première fois sous la Ve République, il conduit une politique marquée par une hausse de la fiscalité puis par un virage social-libéral et par l'ouverture du mariage civil aux couples de même sexe. L'élection présidentielle de 2017 suit la tenue de primaires ouvertes dans les deux camps politiques pourvoyeurs jusque-là des présidents de la Ve République, mais voit l'élimination de leurs candidats dès le premier tour. Démissionnaire du Parti socialiste pour fonder son propre mouvement, Emmanuel Macron, ancien secrétaire général adjoint du cabinet du président Hollande puis ministre de l'Économie, remporte les deux tiers des suffrages du second tour face à la candidate du Front national (parti français), Marine Le Pen. Élu à 39 ans, il est le plus jeune président français de l'histoire72 et le second plus jeune chef d'État français depuis la désignation en 1799 de Napoléon Bonaparte comme Premier Consul (à 30 ans).
 
-Risque de marché
+Depuis 1945, la France a été touchée par plusieurs vagues d'attentats terroristes, en particulier par le terrorisme islamiste depuis 1995, qui mène la même année à la création du plan Vigipirate, actualisé en 2000, en 2002, en 2003 et en 2006, puis, après une vague d'attentats particulièrement meurtriers en 2015-2016, à l'institution d'un état d'urgence.
+Politique et administration
+Article détaillé : Régime républicain en France.
 
-7,3
+La France est une démocratie libérale, dont le gouvernement a la forme d’une République. Les fondements de l’organisation politique et administrative actuelle de la France ont été fixés en 1958 par la Constitution de la Cinquième République. Selon l’article premier de la Constitution, « la France est une République indivisible, laïque, démocratique et sociale ». Depuis 2003, ce même article affirme en outre que « son organisation est décentralisée ».
+Organisation des pouvoirs
+Article détaillé : Cinquième République (France).
+Un organigramme des institutions de la Cinquième République, reproduisant et enrichissant le fonctionnement décrit ci-dessus.
+Organigramme des institutions de la Cinquième République.
 
-6,7
-* toutes les notes sont notées sur 10 points
+L’organisation des pouvoirs en France est définie par la Constitution de 1958, amendée à plusieurs reprisesk 1 ; le rôle de chaque institution est cependant défini tant par la pratique observée depuis 1958 que par le texte de la Constitutionk 1. La France possède un régime politique original par le large pouvoir dont disposent à la fois le Parlement et le président de la République, ce qui a amené les constitutionnalistes à parler de « régime parlementaire présidentialisé », de « régime semi-présidentiel » ou encore de « régime parlementaire bireprésentatifN 22 ». Le pouvoir législatif appartient au Parlement, formé de deux chambres, l’Assemblée nationale et le Sénatk 2. L’Assemblée nationale, chambre basse du Parlement, est formée de 577 députés73, élus pour cinq ans au suffrage universel direct au scrutin uninominal majoritaire à deux tours dans des circonscriptions découpées au sein des départementsk 3. Le Sénat, la chambre haute, est formé de 348 sénateurs74 élus pour six ans par 150 000 grands électeurs (principalement des élus locaux)75 et est de ce fait considérée comme moins représentative que l’Assemblée nationalek 4. L’Assemblée nationale est plus puissante que le Sénat en cas de désaccord prolongé sur l’adoption d’une loi avec ce dernierk 5. Le pouvoir exécutif appartient en premier lieu au président de la Républiquek 6, élu pour cinq ans76 au suffrage universel direct au scrutin uninominal majoritaire à deux toursk 7. Le président de la République est le chef de l’État et le chef des armées, il promulgue les lois et peut dissoudre l’Assemblée nationalek 8. Il nomme le Premier ministre, et, sur proposition de celui-ci, les membres du gouvernementk 9. Le gouvernement peut être renversé par une motion de censure adoptée par l’Assemblée nationalek 5. Lorsque la majorité parlementaire et le président n’appartiennent pas au même parti politique, on parle alors de cohabitationk 2. Le pouvoir judiciaire, quant à lui, est séparé des deux autres, bien que le président de la République dispose d’un droit de grâce77. Il est lui-même subdivisé entre un ordre administratif, dont la plus haute juridiction est le Conseil d’État, et un ordre judiciaire, dont la plus haute juridiction est la cour de cassationk 10. Le droit français, de tradition romano-civiliste78, stipule que tout accusé, avant d’être condamné, est présumé innocent, et qu’une affaire peut être rejugée en appel sur demande d’une des partiesN 23,79. La conformité des lois à la Constitution, la régularité des scrutins et, plus largement, le respect des institutions sont contrôlés par le Conseil constitutionnelk 11.
+Découpage territorial et décentralisation
+Articles détaillés : Administration territoriale de la France et Décentralisation en France.
+Carte des 18 régions françaises, à compter du 1er janvier 2016.
 
-A titre informatif, les indicateurs et les valeurs pertinentes détaillés de ces dernières années sont mis à disposition en annexes (Annexe 1).
-4. Domaines d'Activités Stratégiques
+L'on distingue d'un côté la France métropolitaine et les régions d'outre-mer qui sont administrées dans le cadre des règles générales et d'un autre côté, la Nouvelle-Calédonie, les collectivités d'outre-mer et les territoires d'outre-mer qui disposent de statuts différents. La France métropolitaine et les régions d'outre-mer sont divisées en de multiples collectivités territoriales réparties sur trois niveaux : la commune, le département et la région. Ces collectivités territoriales sont en même temps des circonscriptions administratives dans lesquelles l’État intervient au travers de ses services déconcentrés. Les communes, au nombre de 36 681 en métropole au 1er janvier 201480, correspondent généralement au territoire d’une ville ou d’un village ; elles sont dirigées par un conseil municipalk 12, qui élit un maire, à la fois agent de la collectivité territoriale et représentant de l’État dans la communek 13. Depuis les années 1990, la coopération entre les communes a été renforcée par l’émergence d’établissements publics de coopération intercommunale, dont le rôle s’accroîtk 14. Les départements, créés pendant la Révolution françaisek 15, sont aujourd’hui au nombre de 99 dont 5 en Outre-mer. Ils sont dirigés par un conseil départemental dont les membres sont élus au sein des cantonsk 16 et l’État y est représenté par un préfetk 17. Quant aux 18 régions françaises, dont l’existence est plus récentek 17, elles sont dirigées par un conseil régionalk 18 et l’État y est représenté par un préfet de régionk 12. À ces collectivités territoriales s’ajoutent d’autres divisions territoriales, tels que le canton, l’arrondissement ou plus récemment le pays mais elles ne possèdent pas de dirigeants élusN 24. Comparée à ses voisins européens, la France a longtemps été marquée par une forte centralisation politique, les collectivités territoriales disposant de pouvoirs relativement faiblesk 15. Néanmoins, cette situation a beaucoup évolué depuis le début des années 1980, d’abord en 1982 et 1983 avec les lois Defferre (appelées a posteriori l'acte I de la décentralisation), puis entre 2002 et 2004 sous le gouvernement Raffarin (acte II)81. En 2010, les compétences des collectivités territoriales sont nombreuses, et concernent notamment les établissements scolaires, les transports, le développement économique et l’action sociale82. Néanmoins, la superposition de multiples échelons et la limite souvent floue entre les compétences des différentes collectivités territoriales est la source de débats sur l’avenir de la décentralisation sur lequel le gouvernement Fillon s’est penché entre 2008 et 201083. Le gouvernement Valls poursuit ce processus en proposant un nouveau découpage en 18 régions, effectif à partir du 1er janvier 2016 et des élections régionales de décembre 2015 (acte III de la décentralisation).
+France d’outre-mer
+Article détaillé : France d'outre-mer.
+Une carte de la France d’outre-mer, montrant que la France est présente dans tous les océans.
+France métropolitaine et d’outre-mer (bleu).
 
-La typologie des 3 DAS:
-- Pharmaceutique :
+Les territoires français situés hors d’Europe, qui correspondent à d’anciennes colonies restées françaises, sont quant à eux soumis à des régimes administratifs et juridiques très différents les uns des autres84. Ces territoires, dont la situation économique est globalement moins bonne que celle de la métropole, bénéficient de nombreuses aides de l’État85. La Guadeloupe, la Guyane, la Martinique, La Réunion et depuis 2011 MayotteN 25 sont des Département et région d'outre-mer. Ces 5 territoires se distinguent du reste de la France d'outre-mer par leur statut en tout point similaire à celui des régions métropolitaines, bien que les lois françaises puissent prévoir des dispositions spécifiques les concernant86. Ces régions ultramarines, font partie des régions ultrapériphériques de l’Union européenne, et sont soumis à la législation européenne87 qui s'y applique de plein droit. En revanche, les autres territoires français d’outre-mer, à l’exception des collectivités de Saint-Barthélemy et de Saint-Martin, ne font pas partie de l’Union européenne, bien que leurs habitants disposent de la citoyenneté européenne88. Il s’agit tout d’abord des cinq collectivités d’outre-mer, aux statuts très variés, la Polynésie française, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon et Wallis-et-Futuna89. Bien que l’État y conserve certaines prérogatives exclusives, elles sont soumises en grande partie à une législation spécifique et bénéficient de la spécialité législative84. La Nouvelle-Calédonie, de son côté, est une collectivité territoriale sui generis, à l’autonomie très poussée, et où un référendum sur l’indépendance doit être organisé entre 2014 et 201890. Enfin, les Terres australes et antarctiques françaises et l’île de Clipperton, qui n’accueillent aucun habitant permanent, sont gérées directement par l’État ou son représentant90,91.
+Tendances politiques, partis et élections
+Articles détaillés : Vie politique en France depuis 1958 et Liste des partis et mouvements politiques français.
+Un diagramme montrant l’évolution des pourcentages des suffrages exprimés obtenus par chaque courant politique au premier tour de chaque élection présidentielle de 1965 à 2007. On peut notamment observer une diminution de l’influence des centristes et une hausse de celle de l’extrême-droite, même si ces deux tendances ont été nuancées lors de l’élection de 2007.
+Diagramme représentant le pourcentage des suffrages exprimés obtenu par chaque courant politique au premier tour de chaque élection présidentielle de 1965 à 2017N 26,92.
 
-C'est un secteur de croissance non cyclique, il représentait une zone de croissance pour
+         Extrême-gauche
+         Communistes et gauche radicale
+         Socialistes et divers gauche
+         Écologistes
+         Centristes
+         Droite
+         Extrême-droite
+         Divers
 
-Solvay. La société pharmaceutique est de taille moyenne.
-- Chimique :
+Le système politique français, et notamment le suffrage uninominal majoritaire qui prévaut lors des élections présidentielles et législatives, tend à une bipolarisation ou à une tripolarisation de la vie politiquen 3. Par conséquent, on observe depuis les débuts de la Cinquième République une tendance au regroupement des partis avec de fréquents retours en arrièrek 19. Cependant, l’audience des principaux partis tend à diminuer au profit des petites formationsN 27. Le paysage politique français connaît trois évolutions majeures depuis les années 1980 : la chute de l’audience du Parti communiste françaisn 4, la baisse progressive de l’électorat centriste et la hausse du vote pour des partis d'extrême droiten 3. Par ailleurs, l’abstention concerne un nombre de plus en plus élevé d’électeurs93.
 
-La branche chimie dispose d'un leadership fort et d'une position concurrentielle. Elle se décompose en 4 grands pôles:
+Depuis les années 1990, les deux principaux partis français sont Les Républicains (LR)  — Rassemblement pour la République (RPR) avant 2002, puis Union pour un mouvement populaire (UMP) de 2002 à 2015 — et le Parti socialiste (PS)94. Le mouvement Les Républicains est un parti de droite et de centre-droit95, membre du Parti populaire européen. Le Parti socialiste est un parti de gauche et de centre-gauche95, membre du Parti socialiste européen. En 2012, le président de la République, le Premier ministre, la plupart des ministres, des députés, des sénateurs et des présidents de conseils régionaux ou généraux en sont membres. De nombreux autres partis participent à la vie politique de la France : les plus importants sont le Front national (FN, extrême-droite nationaliste96, populiste97,98, souverainiste et opposé à l'immigration99), l'Union des démocrates et indépendants (UDI, centre et centre-droit), le Mouvement démocrate (MoDem, centre), le Parti radical de gauche (centre-gauche), Europe Écologie Les Verts (écologistes)N 28,n 5, le Parti communiste français (PCF, gauche communiste) et La France insoumise (gauche radicale et écosocialiste).
 
-- Le Pôle des minéraux (46% du CA du secteur Chimique: Carbonate de soude et dérivés, carbonates de baryum et de strontium, « advanced Functional Minerals »)
+Les élections, présidentielle puis législatives, de 2017 ont toutefois abouti à une recomposition de l'offre politique française, marquée par une élimination dès le premier tour des candidats des deux partis ayant occupé la présidence de la République auparavant, et l'élection d'un jeune candidat entré en politique active sous la présidence de François Hollande sans être membre actif du PS, Emmanuel Macron. Le mouvement créé par ce dernier sur une ligne centriste, europhile et sociale-libérale, et réunissant des personnalités du centre-gauche, du centre, du centre-droit et de la société civile, La République en marche ! (LaREM ou REM), obtient ensuite la majorité à l'Assemblée nationale. Cette formation reste toutefois encore peu représentée au Sénat et dans les assemblées des collectivités locales.
+La séparation des pouvoirs
 
-- Le Pôle Electrochimie et Fluor (36,3% du CA du secteur Chimique : soude caustique et produits fluorés)
+Les régimes démocratiques sont organisés selon le principe de la séparation des pouvoirs législatif, exécutif et judiciaire afin d’éviter leur concentration entre les mains d’une seule personne. Certaines Constitutions privilégient la stricte séparation des pouvoirs, d’autres leur permettent, tout en étant distincts, de disposer de moyens de contrôle les uns à l’égard des autres. La République française est dirigée par quatre pouvoirs distinctifs.
+		
+L'actuel président de la République est Emmanuel Macron (gauche). Élu le 7 mai 2017, il a pris ses fonctions le 14 mai 2017. Il a nommé l'actuel Premier ministre Édouard Philippe (droite) le 17 mai 2017.
 
-- Le Pôle Oxygène (16,3% du CA du secteur Chimique : peroxyde d'hydrogène, détergence et caprolactones)
+    Pouvoir exécutif
 
-- Et le pôle Organique (0,9% du CA du Secteur Chimique)
-- Plastiques :
+La Constitution de 1958 distingue deux catégories de gouvernants : le président de la République et le gouvernement. Ils exécutent les lois et le budget de l'État après consultation et approbation des députés et des sénateurs, le cas échéant des Français par référendum. Le président veille au respect de la Constitution. Il assure le fonctionnement régulier des pouvoirs publics ; il a le devoir de garantir l'indépendance nationale, l'intégrité du territoire et le respect des traités. Il est le chef des armées. Élu au suffrage universel direct, il exerce un mandat à durée limitée de cinq ans (renouvelable indéfiniment). Il nomme le Premier ministre et, sur proposition de celui-ci, les ministres du gouvernement, lequel peut être renversé par l'Assemblée nationale après le vote d'une motion de censure ou la réponse négative à une question de confiance. Quant au Premier ministre, il dirige l'action du gouvernement, qui détermine et conduit la politique de la Nation et assure l'exécution des lois, et il est responsable de la défense nationale ; il dispose de l'administration et de la force armée. Le Conseil des ministres, qui se réunit en principe une fois par semaine sous la présidence du président de la République, est le seul organe collectif où sont prises les décisions du gouvernement100.
 
-Cette branche est mineure dans l'activité du groupe, et se caractérise par une spécialisation dans:
+    Pouvoir législatif
 
-- Les Polymères « high tech » et Inergy Automotive Systems (42% du CA de ce secteur)
+		
+Gérard Larcher (gauche) est le président du Sénat depuis le 1er octobre 2014, et François De Rugy (droite) est le président de l'Assemblée nationale depuis le 27 juin 2017.
 
-- Et les activités compétitives de la chaîne vinylique (58% du CA de ce secteur)
+Les Français inscrits sur les listes électorales sont consultés pour voter en cas de référendum ou d'élections européennes, présidentielle, législatives, sénatoriales, régionales, départementales, et municipales. Le pouvoir législatif est chargé de la rédaction et de l’adoption des lois mais également du contrôle de l’exécutif. En France, le pouvoir législatif est exercé par le Parlement, composé de deux chambres : l’Assemblée nationale et le Sénat. L’Assemblée nationale se situe au cœur de la démocratie française comme le montrent les textes qui régissent le fonctionnement de la Ve République. Représenter le peuple français, légiférer et contrôler l’action du gouvernement : tel est le triptyque qui guide l’action des 577 députés représentant les Français de métropole, d'outre-mer ou de l'étranger. Chaque année, ce sont ainsi en moyenne une centaine de lois qui sont adoptées, plus de 1 400 heures de débats qui ont lieu dans l’hémicycle, plus de 33 000 questions qui sont posées au gouvernement par écrit ou par oral, plus de 450 rapports qui sont adoptés par les commissions sur les sujets les plus divers. Avec la dernière révision de la loi constitutionnelle du 23 juillet 2008, qui s’est traduite par une réforme profonde du Règlement de l’Assemblée, les pouvoirs de l’Assemblée sont sensiblement renforcés. Le Sénat constitue, avec l'Assemblée nationale, le Parlement, qui vote la loi. Le contrôle du gouvernement est la deuxième grande mission du Sénat. Ce contrôle s'exerce par des questions, des débats ou des investigations menées par les sénateurs.
 
-Il est à souligner que Solvay fait partie des leaders mondiaux dans les domaines de la fabrication et de la commercialisation de produits plastiques et chimiques.
-Analyse des performances économiquespar DAS:
+    Pouvoir judiciaire
 
-Dans un premier temps nous allons analyser la représentation des différents DAS dans la performance économique du groupe Solvay.
-Répartition du CA 2009 en pourcentage:
-Répartition du Résultat 2009 en pourcentage:
+Articles connexes : Tribunal administratif (France) et Cour de cassation (France).
 
-Au niveau du Chiffre d'Affaires on remarque que la répartition est homogène avec une représentation d'environ 1/3 pour chaque DAS.
+Les tribunaux administratifs regroupent ce qui est rendu comme jugement au vu du droit administratif. Les personnes en conflit peuvent ainsi saisir les tribunaux administratifs par requête écrite. Tout citoyen contre l’État français, personne morale ou physique a le droit et la possibilité de contester une décision prise pour excès de pouvoir ou pour obtenir des dédommagements à la suite d'une faute de l'État ou de ses services ou établissements publics. Les tribunaux administratifs sont régis par le code de justice administrative. Ce code regroupe les dispositions du droit français relatives aux juridictions administratives telles que le Conseil d’État, les Cours administratives et le tribunal des conflits notamment. D’autres codes en relation sont aussi consultés, le code de l’organisation judiciaire, le code de procédure civile, le code des juridictions financières et le code général des collectivités territoriales. Le code de justice administrative est consultable sur le site officiel des textes du gouvernement français : légifrance101.
 
-Cependant dans l'analyse du Résultat on remarque que le portefeuille d'activités est très déséquilibré en effet la Pharmacie représente 2/3 du Résultat global du groupe. Tandis que les secteurs Chimique et Plastique ne représentent seulement 1/3, la chimie étant le plus rentable des 2.
+    Constitution
 
-Suite à cette analyse nous pouvons dire que le secteur Pharmaceutique est le plus rentable et ainsi est la source principale de revenu pour du groupe.
+La Constitution de la Ve République française.
 
-Analyse du portefeuille d'activités du groupe:
-Matrice BCG:
+La Constitution définit également l’organisation des pouvoirs publics locaux. Elle distingue les compétences respectives de l’État central et des institutions locales102. Selon l'article premier de la Constitution : « La France est une République indivisible, laïque, démocratique et sociale. Elle assure l'égalité devant la loi de tous les citoyens sans distinction d'origine, de race ou de religion. Elle respecte toutes les croyances. Son organisation est décentralisée. La loi favorise l'égal accès des femmes et des hommes aux mandats électoraux et fonctions électives, ainsi qu'aux responsabilités professionnelles et sociales. »103.
+Le gouvernement
+Les ministères
+Articles connexes : Conseil d'État (France) et Gouvernement Édouard Philippe (2).
+Les ministères 	Les ministres 	Les portraits
+Ministre d'État, ministre de l'Intérieur 	Gérard Collomb 	
+Ministre d'État, ministre de la Transition écologique et solidaire 	Nicolas Hulot 	
+Garde des Sceaux, ministre de la Justice 	Nicole Belloubet 	
+Ministre de l'Europe et des Affaires étrangères 	Jean-Yves Le Drian 	
+Ministre des Armées 	Florence Parly 	
+Ministre de la Cohésion des territoires 	Jacques Mézard 	
+Ministre des Solidarités et de la Santé 	Agnès Buzyn 	
+Ministre de l'Économie et des Finances 	Bruno Le Maire 	
+Ministre de la Culture 	Françoise Nyssen 	
+Ministre du Travail 	Muriel Pénicaud 	
+Ministre de l'Éducation nationale 	Jean-Michel Blanquer 	
+Ministre de l'Agriculture et de l'Alimentation 	Stéphane Travert 	
+Ministre de l'Action et des Comptes publics 	Gérald Darmanin 	
+Ministre de l'Enseignement supérieur, de la Recherche et de l'Innovation 	Frédérique Vidal 	
+Ministre des Outre-mer 	Annick Girardin 	
+Ministre des Sports 	Laura Flessel 	
+La mission d’un ministère en France
 
-L'analyse du portefeuille BCG est basée sur 2 indicateurs la PDM relative et le taux de croissance. Pour le groupe Solvay, la Matrice laisse apparaitre la Pharmacie comme DAS Dilemme, en effet compte tenu de la concentration du secteur et de la taille moyenne de la branche pharmacie du groupe Solvay cette activité devient problématique. La chimie cœur de métier du groupe représente l'activité «Vache à lait», en effet Solvay fait partie des leaders sur ce marché à tendance stable (taux de croissance nul) et enfin l'activité Plastique se présente comme «Star» car Solvay travaille beaucoup dans le segment des plastiques «high tech» et s'impose comme un acteur important dans le domaine.
-II. Le Recentrage: une stratégie nécessaire et cohérente?
-1. Diagnostic (Focus DAS Pharmacie)
-A. Diagnostic Externe
+Un ministère est une organisation publique de la nation chargé d’exécuter les missions dans les fonctions et domaines attribués par le Président de la République. La France compte en moyenne une quinzaine de ministères selon l’organisation établie par l’exécutif. C’est le Président de la République qui nomme les ministres du gouvernement sur proposition du Premier ministre qu’il a lui-même nommé. Le ministre est membre du gouvernement, il est assisté par un cabinet et son chef, il a autorité sur les administrations de l’État. La nomination des ministres désignés est ratifiée par décret publié au Journal Officiel. Seul le Président de la République a le pouvoir de destituer un ministre ou tout le gouvernement, au travers d'un remaniement ministériel partiel ou complet.
+Finances publiques
 
-Les grandes tendances du marché:
-* Une croissance fragilisée:
+En France, les prélèvements obligatoires représentaient 44,4 % du PIB en 2006a 1, le sixième taux le plus élevé parmi les pays membres de l’OCDEa 1, et ce taux a tendance à augmentera 2. Les cotisations sociales représentent près de 38 % du total, dix points de plus que la moyenne des pays de l’OCDEa 3 ; à l’inverse, la France est le pays développé où les impôts sur le revenu et sur les sociétés représentent la part la plus faible du total des prélèvements obligatoiresa 4. Malgré le taux élevé des prélèvements obligatoires, les dépenses publiques les dépassent nettement, totalisant 53,9 % du PIB en 2006a 5. Dès lors, le déficit public est élevé, atteignant 2,7 % du PIB en 2007I 3 et même 7,9 % en 2009 du fait de la conjoncture économique104. La dette publique de la France, quant à elle, atteignait 1 457,4 milliards d’euros fin 2009, soit 75,8 % du PIBI 4 et 2 031,5 milliards d’euros au troisième trimestre 2014, soit 95,3 % du PIB105, contre 20,7 % en 1980a 6. La France est néanmoins tenue de respecter les critères du Pacte de stabilité et de croissance de la zone euro, qui limite le déficit budgétaire à 3 % du PIB et la dette publique à 60 % du PIBa 7, ainsi que les critères du Pacte budgétaire européen de 2012 qui limite le déficit structurel à 0,5 % du PIB pour l'objectif budgétaire à moyen terme.
+Ici sont visibles deux diagrammes : le premier montre la répartition des recettes fiscales de l’État par impôt et permet d’observer la prépondérance de la Taxe sur la valeur ajoutée, de la Contribution sociale généralisée, de l’Impôt sur le revenu des personnes physiques et de l’Impôt sur les sociétés ; le deuxième permet d’observer le poids des prélèvements obligatoires dans le PIB, et leur répartition, principalement au bénéfice de la Sécurité sociale et de l’État.
+Répartition des prélèvements obligatoires et des bénéficiaires institutionnels en 2007 (sources106 et précisionsN 29).
+Protection sociale
+Articles détaillés : Protection sociale en France et Sécurité sociale en France.
+Si ce bandeau n'est plus pertinent, retirez-le. Cliquez pour voir d'autres modèles.
+Cet article doit être actualisé (dernière mise à jour : juillet 2012) (janvier 2016).
 
-Le secteur connaît une croissance mais qui est fragilisée par la crise. En effet depuis ces 3 dernières années, on assiste à un ralentissement de la croissance du CA du secteur et ainsi a une perte de vitesse de la croissance du secteur.
+Des passages de cet article sont obsolètes ou annoncent des événements désormais passés. Améliorez-le ou discutez-en. Vous pouvez également préciser les sections à actualiser en utilisant {{section à actualiser}}.
 
-Plusieurs facteurs, expliquent cela, d'après les études du XERFI 700 on dénote :
-
-- Les économies des organismes payeurs tel que l'assurance maladie et autres mutuelles qui réduisent leurs coûts.
-
-- Une baisse significative de l'auto médication : du fait de la remonter des prix et de la baisse du pouvoir d'achat de la population dut à la crise
-
-- Une forte augmentation de la consommation de vaccins ainsi que de la vente de médicament générique. Réellement seul l'activité hospitalière et des maladies de grandes ampleurs tel que de la grippe A soutiennent l'activité du secteur. Concernant le développement des génériques il est défavorable à l'industrie française par exemple (car c'est un producteur de second rang). Les principaux producteurs sont les pays émergents tel que la chine l inde ou le brésil.
-
-- L'augmentation de la perte de brevet représente une hausse des couts de la recherche et un déclin de la productivité de la R&D
-
-- Un durcissement de la réglementation des médicaments concernant notamment toutes les étapes de fabrication.
-
-- La radicalisation des conditions d'homologation des nouveaux
-
-- L'augmentation des substituts tels que les alicaments, les contrefaçons de médicaments (en nette progression dans les pays en développement) et les nouvelles alternatives thérapeutiques.
-
-- Le problème de surcapacité des grands groupes dans la production de médicaments représente également une des raisons de la fragilité de ce secteur.
-
-Le problème de ce ralentissement vient principalement de la faible croissance des marchés forts tels que les marchés européen et américain. Néanmoins les pays en développement tels que la Chine, l'Inde représentent un énorme potentiel.
-* La crise du modèle Blockbuster:
-
-Le modèle blockbusters reposait sur la production d'un nombre restreint de références qui par des effets de masses et d'économie d'échelles, atteignait des niveaux de rentabilité très élevé. On assiste aujourd'hui à une crise de ce modèle du fait qu'aujourd'hui la clientèle a nettement moins besoin de médicament de masse mais de plus de médicament ciblé. Ce système est également remis en cause par: la perte des brevets, l'augmentation des coût de R&D, la concurrence des génériques…
-* La tendance à la spécialisation
-
-Le secteur pharmaceutique sur le long terme tend à un partage des risques et vers un modèle de blockbusters de niche (médecine de spécialité). Cette nouvelle tendance intègre le développement des nouvelles technologies, l'enjeu de se modèle réside dans une stratégie de portefeuille nouvelle adaptée a des besoins bien spécifiques.
-* Restructuration dans le secteur
-
-Les grands laboratoires sont également à la recherche d'économies de coûts, notamment en R&D, c'est ainsi que l'on a assisté à une vague de restructuration en 2008. L'objectif étant d'adapter l'organisation de la R&D (sous traitance), pour leurs permettre de préserver leur potentiel d'innovation et mieux répondre à l'intégration des nouvelles technologies.
-* Le retour à une concentration du marché (mégafusions)
-
-Face à ces mutations du secteur, les grands laboratoires on déployé de nouvelles stratégies pour conserver leur position et répondre aux exigences du marché et des payeurs. Les enjeux aujourd'hui pour ces groupes sont l'optimisation des coûts et la croissance externe, c'est ainsi qu'ils on recours à des Fusions et Acquisitions ciblées par exemple en rachetant des petites boîte spécialisées dans les biotechnologies (R&D active et innovante) ou en acquérant des activités où les barrières à l'entrées sont moins importantes comme les génériques, les vaccins…(les entreprises cibles sont de taille moyenne).
-
-Le secteur pharmaceutique passe de la production de produit de masse à la recherche de marchés de niche à fort potentiel. Cette évolution passera incontestablement par des investissements importants à l'international (conquête de nouveaux marchée), en R&D (nouvelles technologies) etc …
-Analyse PESTEL:
-*Source Xerfi 700
-
-On a pu observer que le contexte dans lequel l'industrie pharmaceutique évolue est de plus en plus difficile. Le développement de nouveaux médicaments coûte cher et l'issue est toujours plus incertaine. Les contraintes sanitaires et légales sont devenues draconiennes et l'approbation de plus en plus difficile.
-
-Analyse des éléments structurels du secteur: Modèle de Porter(5 forces+Gouvernement)
-· Le pouvoir de négociation des fournisseurs (+)
-
-Il y a un faible pouvoir de négociation de la part des fournisseurs. En effet les entreprises du secteur commandent majoritairement de grosses quantités notamment du fait de la production de masse des médicaments et dans le but de réaliser des économies d'échelles (système des blockbusters). Cependant ce fort pouvoir de négociation tend à diminuer du fait de la crise du modèle des blockbusters.
-· Le pouvoir de négociation des clients (+-)
-
-Il y a un faible pouvoir de négociation de la part des clients. Cependant les clients finaux sont fortement influencés par l'implication des organismes payeurs, dans le taux de remboursement des médicaments.
-· Les produits substituts (- - -)
-
-Les produits génériques sont de nouveaux produits de substitution leur production commence dès qu'un brevet tombe dans le domaine public. Le nombre de médicaments génériques est en augmentation chaque année ce qui est une menace pour le secteur.
-
-Enfin la dernière menace sont les produits contrefaits en augmentation dans les pays en développement qui se substituent à tord aux médicaments originaux.
-
-Autre menace dans une moindre mesure, les alicaments et médecines douces, bien qu'ils ne répondent pas aux mêmes besoins et ne sont pas réellement substituables, ils sont consommés en amont par les consommateurs ce qui correspond à une forme de substitution.
-· Entrants potentiels (+)
-
-Le secteur est fermé aux nouveaux entrants, il est donc difficile de venir concurrencer une entreprise sur le secteur, en effet il y a de très fortes barrières à l'entrée (investissements financiers élevés, technologies…).
-
-Il faut cependant souligner le fait que les clients dans ce secteur ne sont pas fidèles à une marque si le produit à la même efficacité (médicaments génériques).
-· Concurrence interne (- -)
-
-La rivalité dans ce secteur d'activité est très vive du fait du nombre et de la taille des acteurs (concentration). Le marché de la pharmacie est de type ultra concurrentiel, avec une dominance des 2 leaders mondiaux (Pfizer et GSK), suivis de grands groupes internationaux (ex: Merck&Co, Sanofi-Aventis, Novartis…) et en de laboratoires nationaux indépendants très actifs qui possèdent des positions fortes notamment dans la R&D.
-· Gouvernement (-)
-
-Il est essentiel de noter l'importance des facteurs induits par le Gouvernement dans un secteur tel que celui de la Pharmacie. En effet le gouvernement joue un rôle essentiel en ce qui concerne le contrôle de la production des médicaments et des prix pratiqués. Le gouvernement joue un rôle essentiel dans un pays comme par exemple en France où il est un organisme payeur (remboursement des médicaments).
-B. Diagnostic Interne
-
-Dans les années 70 et au lendemain de la crise pétrolière, le groupe Solvay a opté pour un modèle stratégique hybride, en se lançant, grâce plusieurs acquisitions, dans le secteur pharmaceutique.
-
-L'objectif était alors d'avoir une activité plus stable dans son portefeuille d'activités, qui permettrait de compenser l'aspect trop cyclique des activités Chimie et Plastique (répartition des risques).
-
-Cette petite activité est devenue grande et source de revenu, au cours du temps. En 2008, la pharmacie pesait pour 52 % du bénéfice du groupe Solvay, elle n'est donc pas une activité annexe.
-
-Il semblerait qu'aujourd'hui Solvay Pharma soit un groupe d'envergure relativement modeste et n'est pas la taille critique pour poursuivre son évolution dans le secteur pharmaceutique.
-
-SOLVAY PHARMACEUTICALS est un groupe de sociétés pharmaceutiques qui assurent les activités pharmaceutiques mondiales du groupe SOLVAY. Axé sur la recherche, ces sociétés s'emploient à répondre à des besoins médicaux non satisfaits dans les domaines thérapeutiques suivants: neurosciences, cardiométabolisme vaccins antigrippaux, gastro-entérologie et gynécologie/andrologie (source Solvay).
-
-En passant en revue les principales fonctions de l'entreprise, il est possible de déterminer les forces et faiblesses par rapport aux concurrents de l'entreprise Solvay.
-Nous analyserons donc la branche pharmacie sur différents aspects et critères :
-- Commercial
-
-Solvay pharma a augmenté ses ventes en Amérique du Nord. Cela est dû à des raisons bien précises. L'approbation de médicaments par la Food and Drugs Administration (FDA) a nettement augmenté la vente de certains produits comme le CREON.
-
-Il a donc explosé les ventes aux Etats-Unis puisqu'il le chiffre d'affaire dépasse les 260 millions d'euros.
-
-On peut aussi noter une diminution des ventes de Marinol puisque le médicament est passé dans le secteur public. L'entreprise doit ainsi faire face à une concurrence féroce que sont les génériques.
-
-On peut ainsi noter une forte augmentation des parts de marchés sur le sol Américains puisqu'il représente 39% des ventes totales dans le monde de Solvay Pharma.
-
-De ce fait, Les principaux clients de Solvay Pharma sont l'Amérique du Nord, la Russie et la France. L'Europe reste en tête avec plus de 46% des ventes réalisé.
-
-La collaboration avec ChemDiv met en avant une volonté de se rapprocher encore plus de la Russie ainsi que des Etats-Unis. De plus, il reflète une recherche permanente puisque ChemDiv est un institut spécialisé dans la recherche de nouveaux composés. On peut donc noter que ce partenariat s'intègre parfaitement dans la stratégie de croissance de Solvay Pharma.
-
-Elle est aussi en collaboration avec HUYA Bioscience International, une entreprise spécialisée dans la facilitation et l'accélération du co-développement mondial de nouveaux produits biopharmaceutiques originaires de Chine.
-
-Ainsi grâce à cette collaboration, Solvay Pharma accède au portefeuille de molécule chinoise et développe le domaine cardiovasculaire.
-
-On peut aussi noter les produits phares de Solvay Pharma qui sont les vaccins antigrippaux principalement vendus en Europe, l'Andrologie vendu dans le monde entier ainsi que l'Enzyme pancréatique.
-- Recherche et développement
-
-Dans le cadre de la recherche et du développement, Solvay Pharma continue son partenariat avec Abbott. Ainsi, sur les produits visant à diminuer le cholestérol, Solvay Pharma et Abbott ont développé un produit TRILIPIX réduisant ce symptôme. Ils ont ainsi pu diminuer les dépenses de recherche et développement.
-
-On peut aussi noter que dans ce secteur d'activité, la R&D est très importante. De ce fait, les dépenses dans ce pôle s'élèvent à 416 millions d'euros alors que l'entreprise alloue un budget total de 555 millions d'euros toutes les dépenses liées à la recherche.
-
-Il est important de noter que Solvay Pharma se munie des meilleurs installations puisqu'elle a installé la technologie la plus récente pour son unité de production cellulaire.
-
-Au début des années 2000, les espoirs du groupe reposaient sur deux molécules vedettes : le Cilansetron (syndrome du colon irritable) et le Bifeprunox (schizophrénie). Cependant face aux différents refus des autorités sanitaires, Solvay a dû abandonner ces molécules en 2005 (Cilansetron) et 2009 (Bifeprunox), ces échecs ont entrainé la perte de plusieurs millions d'euros.
-
-On dénote également une faible productivité en termes de R&D chez Solvay Pharma.
-
-Aujourd'hui la rentabilité et la croissance de l'activité Pharmaceutique sont assurées par les molécules héritées de l'acquisition de Fournier (Tricor/Trilipix). L'activité Pharmaceutique repose donc «principalement» sur ces molécules (faiblesse a long terme) qui constituent le principal argument de vente la branche Pharma.
-- Financier
-
-On peut constater que la vente de Solvay Pharma représente un gain de plus de 5 milliard d'euros. Ce montant est basé sur les gains qu'enregistre Solvay Pharma depuis les dernières années. De fait, le résultat opérationnel sur ce secteur atteint des records puisqu'il a augmenté de plus de 27% atteignant ainsi 640 millions d'euros sur l'année 2009. On peut aussi constater dans les tableaux des flux de trésorerie que l'entreprise Solvay Pharma diminue les efforts d'investissements puisqu'elle a diminué ses emprunts de près de 200 millions d'euros. Cela est dû à la trésorerie que dégage depuis peu l'activité pharmaceutique. L'entreprise pratique aussi énormément l'auto financement puisqu'elle en a les capacités.
-C. SWOT
-Opportunités
-Menaces
-
-- Forte augmentation de la consommation de vaccins.
-
-- Forte augmentation de la vente de médicament générique.
-
-- L'activité hospitalière et des maladies de grandes soutiennent l'activité du secteur.
-
-- Fort potentiel des nouveaux marchés en développement tel que la Chine, le Brésil et l'Inde.
-
-- Modification de l'organisation de la R&D
-
-- Fort potentiel de développement des marchés de niche (spécialisation)
-
-- Diminution de l'augmentation du CA du secteur
-
-- Ralentissement de la croissance
-
-- Une baisse significative de l'auto médication
-
-- Faible croissance des marchés Occidentaux
-
-- Marché très concurrentiel (notion de taille critique)
-
-- Durcissement de la réglementation des médicaments concernant toutes les étapes de fabrication
-
-- Diminution des remboursements des établissements payeurs (tel que la sécurité sociale)
-
-- La crise du modèle des blockbustersàdvpt des génériques
-
-- Une hausse des couts de la R&D et un déclin de la productivité
-
-- Pertes des brevets
-
-- Développement des big pharma (F&Aàconcentration du secteur)
-Forces
-Faiblesses
-
-- Recherche et développement
-
-- Présence importante sur un marché porteur qu'est le cholestérol (fenofibrate)
-
-- Gros portefeuille de molécules
-
-- Partenaire d'une grande importance Abbott, partenaire chinois (acquisition de part de marché en Chine)
-
-- Développement grâce à l'acquisition des pôles pharmaceutiques (cardiovasculaire avec l'acquisition de Fournier)
-
-- Solvay Pharma d'importance moindre / à la concurrence (taille moyenne)
-
-- Difficulté à faire face au marché des génériques
-
-- Coût de la R&D
-
-- Manque de productivité dans la R&D
-
-- Rentabilité et croissance repose sur les molécules de Fournier
-
-- Echec du développement de 2 molécules vedettes
-
-- Activités mère de l'entreprise ne peuvent pas se développer à cause de l'investissement dans la pharmacie
-Facteurs Clés de Succès:
-
-- Le développement et la réorganisation de la R&D, et l'intégration de nouvelles technologies
-
-- La réduction des coûts et le développement sur des segments a forte valeur ajouté notamment par des processus de fusion - acquisition
-
-Malgré son degré de spécialisation, Solvay Pharma n'a pas la taille critique pour répondre au FCS (développer un avantage concurrentiel durableàcoût élevé) et ainsi pour se développer sur un marché ultra-concurrentiel.
-2. Les modalités de la décision
-A. Description de la décision de recentrage
-
-Le 28 Septembre 2009 Solvay a annoncé le recentrage de ses activités, afin de mettre en œuvre une réorientation stratégique sur son cœur de métier dans l'intention d'assurer la pérennisation du Groupe.
-
-Pour cela le groupe à décider de vendre la totalité de ses activités pharmaceutiques. Cette annonce a suscité tout d'abord l'intérêt des firmes européennes et tout particulièrement du groupe Sanofi-Aventis. L'offre faite par Sanofi-Aventis a été déclinée par la famille, celle-ci valorisait la société à 7,2 milliards d'euros (soit 85 euros par action), Solvac souhaitait alors 100 euros par actions.
-
-La vente a finalement était faite à Abbott, «coopétiteur» historique du groupe, pour une valeur d'entreprise totale d'environ 5,2 milliards d'euros.
-
-ABBOTT est une entreprise multinationale américaine diversifiée dans le domaine de la santé, elle intervient dans la recherche, le développement et à la commercialisation de produits pharmaceutiques et médicaux spécifiques, y compris les produits nutritionnels, diagnostiques et les dispositifs médicaux. L'entreprise américaine emploie plus de 72.000 personnes et commercialise ses produits dans plus de 130 pays (source Solvay).
-
-Cette valeur inclut un prix d'achat de 4,5 milliards d'euros + des versements additionnels potentiels (jusqu'à 300 millions d'euros).
-
-La transaction comprend également la reprise de certains engagements financiers évalués aujourd'hui à environ 400 millions d'euros.
-
-La vente prévoit le transfert de tous les salariés des activités pharmaceutiques et comprend aussi des dispositions visant à limiter l'exposition future du Groupe à ses antécédents dans les activités pharmaceutiques.
-
-Cette transaction a été clôturée au premier trimestre de 2010 (le 15 février 2010).
-
-Solvay a enregistré une plus-value nette de 1,7 milliard d'euros sur la vente.
-B. Objectifs
-
-Il est dit que cette revente en catastrophe n'est pas liée à un problème de liquidités. Solvay a souffert de la crise comme toutes les entreprises industrielles mais dispose d'une bonne santé financière.
-
-Il semblerait que cette décision représente un réel tournant stratégique mûrement réfléchi.
-Les objectifs:
-
-- Dégager des liquidités en vue d'un réinvestissement
-
-- Développer la croissance interneà investir dans des activités à haute valeur ajoutée et dans des projets stratégiques en chimie et en plastiques
-
-- Développer la croissance externe:
-
-àContinuer l'expansion géographique dans des régions avec un potentiel de croissance
-
-àDévelopper de nouvelles activités (technologies vertes) et produits connexes à son métier actuel, avec une empreinte énergétique basse, qui devraient réduire la cyclicité du portefeuille d'activités de Solvay
-
-L'enjeu de ce recentrage pour Solvay est la création de valeur à long termes.
-Dans les faits:
-
-- Il semblerait que l'objectif principal à court termes, soit d'ordre financier avec le dégagement d'importante liquidités et le réinvestissement de la trésorerie excédentaire sur les marchés financiers
-
-àPlan de placement en actions propres
-3. La pertinence de la Décision
-A. Cohérence
-
-La décision de se séparer de la pharmacie (activité rentable) apparaît comme cohérent compte tenue du marché (concentration) et des coûts engendrés par cette activité (R&D).
-
-Les coûts engendrés par le secteur pharma ne permettent pas d'allouer suffisamment de fonds au développement du cœur de métier du groupe, et la taille de la branche pharma de Solvay ne permet pas de survivre sur un marché rude et en pleine mutation.
-
-De plus on a remarqué que les marchés se méfient et préfèrent désormais les acteurs spécialisés (les «pure player»).
-
-Cependant l'objectif du groupe bruxellois de se renforcer dans la chimie n'apparaît pas comme être en accord avec sa volonté de développer des activités non cycliques. En effet l'activité Pharmacie permettait de contrer le cycle économique.
-
-Cette décision marque un revirement stratégique total. Alors que le groupe menée jusqu'à là une stratégie de croissance avec notamment l'acquisition Fournier Pharma (2005) qui visait à accélérer la croissance et la rentabilité du Groupe et de son secteur Pharmaceutique, aujourd'hui il fait le choix de la spécialisation ou plutôt d'une focalisation stratégique par recentrage en abandonnant son activité la plus rentable.
-B. Incertitudes
-
-Solvay et ses investisseurs ont perdu beaucoup d'argent dans la déroute de Fortis, en effet le groupe a accumulé des pertes de l'ordre de 309 millions d'euros dans cette affaire.
-
-C'est ainsi que l'on peut se poser la question de savoir si les actionnaires ne vont faire pression pour se verser des dividendes au détriment d'un vrai plan stratégique que projetterait Solvay.
-
-On a observé que Solvay a acheté pour environ 55.000 euros de ses propres actions (entre le 22 et le 26 février 2010) pour un montant avoisinant les 3,8 millions d'euros.
-Cette opération s'inscrit dans le cadre d'un programme de placement en actions propres, annoncé le 16 février 2010 et qui a pour objectif l'investir temporairement une partie de la somme générée par la vente des activités pharmaceutiques, avant son réinvestissement dans des actifs industriels. Au total, ce programme de placement en actions propres atteindra un maximum de 5,1 millions d'actions, soit près de 6% du capital du groupe chimique belge (source www.radiobfm.com).
-C. Création de valeur et facteurs attendus?
-
-Suivi et impact sur le cours de l'action:
-
-Graphique de l'action Solvay sur un an (par mois):
-
-*source www. bourse.lesechos.fr
-
-On remarque une hausse des chiffres au troisième trimestre 2009, cette belle performance intervient après l'annonce de la décision, elle est ainsi à mettre au crédit de la ventes prochaine des activités pharmaceutiques du groupe.
-
-Après la concrétisation de la vente on constate une chute du cours de l'action qui montre le manque de confiance des actionnaires et qui traduit l'incertitude liée au réinvestissement du produit de la vente des activités pharmaceutiques.
-
-A la fin février l'annonce du plan de réinvestissement à court terme en actions propres fait redécoller le cours mais cette reprise n'est qu'éphémère, et l'on assiste aujourd'hui à une chute continue du cours.
-
-Cette action se caractérise par une évolution en «dents de scie», cet aspect traduit la volatilité de l'action et le manque de confiance des investisseurs.
-
-L'action Solvay est qualifiée de"boîte noire" par les spécialistes. En effet les incertitudes combinées aux conditions de marché difficiles en Europe pour la branche Chimie/Plastique (le carbonate de sodium et le PVC), laissent pessimiste quant à une reprise de la faible valorisation du titre.
-
-Facteurs attendus: développement de ses activités chimie et plastique
-
-Le recentrage des activités pourrait permettre à Solvay d'affirmer sa position parmi les leaders dans les produits et services de la chimie et du plastique, de prendre des PDM et de développer un nouvel avantage concurrentiel sur ces secteurs (protection de l'environnement, réduction des dépenses énergétiques, amélioration de la performance, R&D).
-
-Les directives stratégiques en terme de cession du secteur le plus rentable permettront peut-être à la société de se spécialiser davantage dans ce domaine en perpétuelle évolution de par les impératives environnementales et la forte demande des professionnels. Cette spécialisation devrait permettre d'atteindre un meilleur niveau d'expertise.
-
-Parallèlement on attend un développement géographique avec notamment une croissance sur les marchés avec un fort potentiel de croissance sur ces secteurs (ex: la chine)
-
-Ces derniers mois on a observé une activité intense du groupe Solvay en termes d'investissements pour le développement durable et la R&D (dans les produits High Tech), comme le montre ces grands titres, source BFM:
-
-- SOLVAY AUGMENTE SA PARTICIPATION DANS LE DEVELOPPEUR DE PILES A COMBUSTIBLE ACAL ENERGY(21/05/2010)
-
-- SOLVAY: UNE NOUVELLE USINE DE BICARBONATE DESORMAIS OPERATIONNELLE AUX ETATS-UNIS POUR REPONDRE A LA DEMANDE CROISSANTE D'EPURATION DES FUMEES(05/05/2010)
-
-- SOLVAY : SOLVAY REDUIT LES EMISSIONS DE GAZ A EFFET DE SERRE DE SON USINE A BERNBURG(28/04/2010
-
-- SOLVAY LE VOL INAUGURAL DU SOLAR IMPULSE EST RENDU POSSIBLE GRACE AUX MATERIAUX INNOVANTS ET AU SAVOIR-FAIRE DE SOLVAY(07/04/2010)
-
-- SOLVAY SOLEXIS CONCENTRE SES EFFORTS EN R&D SUR L'ENERGIE SOBRE EN CARBONE ET L'EAU POTABLE (31/03/2010)
-Conclusion
-
-La vente de l'ensemble des activités pharmaceutiques du groupe Solvay semble paradoxale.
-
-En effet Solvay a souvent mis en exergue le côté défensif de la Pharmacie, qui compense le caractère cyclique des activités Chimie et Plastique et a ainsi permis au groupe de mieux traverser les aléas économiques (crises). Ce modèle Hybride, a permis au groupe de réaliser de bonnes performances économiques, grâce notamment aux bénéfices réalisés par son DAS Pharmacie.
-
-On a cependant constaté que depuis quelques années, que les marchés financiers critiquent le modèle hybride de Solvay, alors que le groupe s'en défend et le présente comme une force.
-
-Pour comprendre la décision de Solvay, il a donc été nécessaire de l'appréhender sous plusieurs aspects: l'agenda interne (objectifs) et les ressources de la société face au contexte économique actuel.
-
-L'année 2010 marque la fin du programme « Inspire » pour Solvay, ce programme a pour but la réduction des coûts d'intégration des activités de Fournier. En 2005, le groupe s'était fixé des objectifs ambitieux : il voulait détenir une société pharmaceutique avec une taille critique, dotée d'une R&D productive avec des médicaments en phase de développement.
-
-En 2009 le groupe décide de faire le bilan et de voir si les objectifs ont été atteints, or il a été constaté qu'ils ne l'ont pas été, d'où l'interrogation sur la pertinence de la conservation de la banche Pharmacie.
-
-Dans un contexte général de l'industrie pharmaceutique qui a profondément changé, Solvay a estimé qu'il n'avait pas la taille critique suffisante pour faire face aux investissements lourds et toujours plus risqués que requiert le développement de nouveaux médicaments.
-
-Solvay à donc fait le choix d'un recentrage sur son cœur de métier dans la les activités chimiques et plastique, avec pour ligne stratégique une croissance externe durable combinée à une stratégie de spécialisation sur ces métiers. Le groupe profitera donc des sommes dégagées pour le réinvestir dans des activités à forte valeur ajouté.
+Depuis sa création en 1945a 8, la Sécurité sociale est au cœur du système de protection sociale français, bien que l’État, les collectivités territoriales et les mutuelles aient également un rôle importanta 9. Le maintien des régimes de protection sociale dont disposaient certaines professions avant 1945 explique la grande complexité du systèmea 10, qui ne compte pas moins de 120 régimes de base et 1 200 régimes complémentairesa 11. Le régime général de la Sécurité sociale, qui compte de loin le plus grand nombre d’affiliésa 10, est divisé en quatre branches correspondant aux quatre risques majeurs, la maladie, les accidents du travail et maladies professionnelles, les risques liés à la vieillesse et la famillea 10. Si cette protection sociale ne concernait dans un premier temps que les personnes actives, elle s’est peu à peu étendue à toute la population active comme inactive dans beaucoup de domaines, par exemple lors de la création de la couverture maladie universelle (CMU) en 1999a 8. En outre, à la fin des années 1990, six millions de personnes dépendaient des minima sociauxd 1. Les prestations sociales sont principalement financées par les cotisations sociales versées par les actifs (65,5 % du total en 2005a 12), mais aussi — et de plus en plus — par l’État et les collectivités territorialesa 12. En 2005, les dépenses de protection sociale — au sens le plus large du termeN 30 — représentaient près de 30 % du PIB et plus de 45 % du revenu disponible ajusté des ménagesa 13. Malgré les efforts menés par les gouvernements successifs pour maîtriser les dépenses socialesa 14, celles-ci augmentent rapidementa 15, du fait notamment de l’augmentation des dépenses de santé des ménagesa 16 et du vieillissement de la populationa 17 — le rapport actifs sur inactifs de plus de 60 ans, qui était de 3 en 1970, devrait atteindre 2,07 en 2010 et 1,36 en 2050 en métropole, selon l’Inseea 18. Enfin le fort taux de chômage, persistant, contribue à l’augmentation du déséquilibre car les chômeurs ne cotisent pas. Les dépenses sociales expliquent à elles seules la quasi-totalité de la progression des dépenses publiques (en pourcentage du PIB) depuis 1960a 19, et la Sécurité sociale affiche en 2015 un déficit de 14,7 milliards d’euros107.
