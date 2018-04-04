@@ -54,3 +54,10 @@ Lacerate Labs
 - [Andrew Ng's Deep Learning MOOC](https://www.deeplearning.ai/)
 - http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 - https://github.com/keras-team/keras/blob/master/examples/lstm_text_generation.py
+
+### TODOs / next steps
+
+- When using a stored model for simulation, I still need to load the wordlist in order to generate the character dictionary. The wordlist can not be changed, otherwise you'd have to retrain the model. It would be nice to store the character set (it's the `ix_to_char` dictionary in the code) along with the model.
+- Since I'm not yet a Python expert, there are most likely some suboptimal ways of doing things in the code.
+- I currently filter out the hyphen during preprocessing. Ideally, I should keep it if it appears within a word, and filter it if it represents something else like a bullet list item.
+- It would be cool to have an option to specify that one input name should be one *line* instead of one word. Then, one could use lists of actual company names that include symbols like ampersands, whitespace, etc., and sample these as well.
