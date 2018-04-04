@@ -1,4 +1,4 @@
-# company-name-generator
+# startup-name-generator
 
 Naming a startup is [hard](https://mashable.com/2012/10/04/startup-naming/). 
 
@@ -13,12 +13,6 @@ You can (and maybe should) save a trained model in the `models` subdirectory, so
 ### Detailed description and tutorial
 
 TODO blogpost
-
-### Literature/References
-
-- Andrew Ng's Deep Learning MOOC
-- http://karpathy.github.io/2015/05/21/rnn-effectiveness/
-- https://github.com/keras-team/keras/blob/master/examples/lstm_text_generation.py
 
 ### Usage
 
@@ -54,3 +48,9 @@ Lacerate Labs
 ```python
 ./generate.py -n 10 -t 0.7 -m models/behemoth_500epochs.h5 wordlists/behemoth.txt --suffix Labs
 ```
+
+### Literature/References
+
+- [Andrew Ng's Deep Learning MOOC](https://www.deeplearning.ai/)
+- http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+- https://github.com/keras-team/keras/blob/master/examples/lstm_text_generation.py
