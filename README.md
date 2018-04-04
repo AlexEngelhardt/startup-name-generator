@@ -25,20 +25,20 @@ I wrote a [blog post](http://alpha-epsilon.de/python/2018/04/04/an-lstm-based-st
 - Sample usage, appending a custom, fixed suffix to each name:
 
 ```python
-./generate.py -e 500 -n 10 -t 0.7 -s models/behemoth_500epochs.h5 wordlists/behemoth.txt --suffix Labs
+./generate.py -e 500 -n 10 -t 0.7 -s models/gallic_500epochs.h5 wordlists/gallic.txt --suffix Software
 ```
 
 ```
-Artered Labs
-Unlieling Labs
-Undewfions Labs
-Archon Labs
-Unleash Labs
-Architer Labs
-Archaror Labs
-Lament Labs
-Unionih Labs
-Lacerate Labs
+Toartio Software
+Riuri Software
+Palia Software
+Critim Software
+Neibo Software
+Veduos Software
+Eigla Software
+Isbanos Software
+Edorio Software
+Emmos Software
 ```
 
 (I found a long list of possible suffixes [here](https://www.reddit.com/r/Entrepreneur/comments/4jfrgl/is_there_a_list_of_generic_company_name_endings/))
