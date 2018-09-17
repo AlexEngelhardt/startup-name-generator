@@ -44,12 +44,7 @@ warnings.simplefilter(action='ignore', category=DeprecationWarning)
 import h5py
 # warnings.resetwarnings()
 
-# Don't print the "Using TensorFlow backend"
-# https://github.com/keras-team/keras/issues/1406
-stderr = sys.stderr
-sys.stderr = open(os.devnull, 'w')
 import keras
-sys.stderr = stderr
 
 from keras.models import Sequential
 from keras.layers import Dense, Activation
