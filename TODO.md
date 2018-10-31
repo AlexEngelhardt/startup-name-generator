@@ -1,0 +1,1 @@
+- See if a variational autoencoder makes sense to generate new stuff
