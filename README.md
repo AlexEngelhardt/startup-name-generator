@@ -10,6 +10,10 @@ I provided a few input texts in the `wordlists` directory - see the `README.md` 
 
 You can (and maybe should) save a trained model in the `models` subdirectory, so that you don't have to train it every time you want to generate new names.
 
+### Lightning talk (5min) with a brief overview
+
+There's a [YouTube video](https://www.youtube.com/watch?v=1w3Q3CEldG0&index=50&list=PLHd2BPBhxqRJpeduPspa9tZiHUix4X1zh) of a lightning talk on this project.
+
 ### Detailed description and tutorial
 
 I wrote a [blog post](http://alpha-epsilon.de/python/2018/04/04/an-lstm-based-startup-name-generator/) with a more detailed description of this project, and a few sample calls and outputs.
