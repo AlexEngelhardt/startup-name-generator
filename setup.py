@@ -29,6 +29,7 @@ setup(name='sng',
       author_email='alexander.w.engelhardt@gmail.com',
       license='MIT',
       packages=['sng'],
+      include_package_data=True,
       install_requires=[
           'keras',
           'numpy',
