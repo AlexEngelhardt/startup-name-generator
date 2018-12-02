@@ -10,8 +10,10 @@ Welcome to sng's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   introduction
    installation
-   quickstart
+   notebooks/01_quickstart.ipynb
+   discussion
    modules
 
 

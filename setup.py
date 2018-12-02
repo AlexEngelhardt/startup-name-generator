@@ -2,8 +2,8 @@
 
 # Run `python3 setup.py --help-commands`
 
-import setuptools
 from setuptools import setup
+
 
 def readme():
     with open('README.md') as f:
