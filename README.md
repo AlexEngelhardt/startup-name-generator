@@ -1,5 +1,14 @@
 # startup-name-generator
 
+### Summary
+
+This package supplies a Generator class, which reads in a textfile containing a
+wordlist, and trains a neural network that learns the "structure" of the words
+in this list. It then generates new words with a similar structure, which can
+be used as suggestions for naming things.
+
+### Extended summary
+
 Naming a startup is [hard](https://mashable.com/2012/10/04/startup-naming/). 
 
 I therefore wrote a Python script to randomly generate company name ideas.

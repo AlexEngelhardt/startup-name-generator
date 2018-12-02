@@ -1,0 +1,8 @@
+.eggs/
+*.pyc
+/dist/
+/build/
+/doc/_build/
+*.pkl
+/*.egg-info
+.ipynb_checkpoints/
