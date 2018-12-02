@@ -33,6 +33,7 @@ setup(name='sng',
       install_requires=[
           'pyyaml',
           'keras',
+          'tensorflow',
           'numpy'
       ],
       setup_requires=['pytest-runner'],
