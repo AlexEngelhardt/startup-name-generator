@@ -38,7 +38,7 @@ subdirectory
   Alice in Wonderland
 - `Greek <http://ntwords.com/eng_gr.htm>`_
   A short list of Greek words (in the latin alphabet)
-- Gallic `(source 1) <http://oda.chez-alice.fr/gallicdico.htm`_: A list of Gallic words. `(source 2) <http://www.darklyrics.com/e/eluveitie.html>`_: Selected Gallic song lyrics from the band Eluveitie
+- Gallic `(source 1) <http://oda.chez-alice.fr/gallicdico.htm>`_: A list of Gallic words. `(source 2) <http://www.darklyrics.com/e/eluveitie.html>`_: Selected Gallic song lyrics from the band Eluveitie
 - `Latin <http://www.thelatinlibrary.com/ovid/ovid.met1.shtml>`_:
   The first book of Ovid's Metamorphoses
 - `French <https://fr.wikipedia.org/wiki/France>`_:

@@ -1,18 +1,22 @@
-# startup-name-generator
+startup-name-generator
+======================
 
-### Summary
+Summary
+-------
 
 This package can train a model that learns the "structure" of the words in a
 supplied text corpus. It then generates new words with a similar structure,
 which can be used as suggestions for naming things like companies or software.
 
-### Quickstart
+Quickstart
+----------
 
 Check out the Jupyter Notebook(s) in ``doc/notebooks/``.
 
-### Extended summary
+Extended summary
+----------------
 
-Naming a startup is [hard](https://mashable.com/2012/10/04/startup-naming/). 
+Naming a startup is `hard <https://mashable.com/2012/10/04/startup-naming/>`_.
 
 I therefore wrote a Python package to randomly generate company name ideas.
 
@@ -22,8 +26,14 @@ be a simple word list (e.g. Greek or Gallic), or a chapter from a book, or just
 a random list of words (e.g. all Pokemon). The script then generates new random
 names that sound simliar to the provided list.
 
-### Literature/References
+Literature/References
+---------------------
 
-- [Andrew Ng's Deep Learning MOOC](https://www.deeplearning.ai/)
+- `Andrew Ng's Deep Learning MOOC <https://www.deeplearning.ai/>`_
 - http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 - https://github.com/keras-team/keras/blob/master/examples/lstm_text_generation.py
+
+Uploading to PyPI
+-----------------
+
+https://packaging.python.org/tutorials/packaging-projects/#uploading-the-distribution-archives
