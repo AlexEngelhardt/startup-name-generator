@@ -6,6 +6,8 @@
 Welcome to sng's documentation!
 ===============================
 
+The ``sng`` package (short for "Startup Name Generator") is hosted `on GitHub <https://github.com/AlexEngelhardt/startup-name-generator>`_. This is its documentation.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:

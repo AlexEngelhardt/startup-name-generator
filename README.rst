@@ -13,6 +13,12 @@ Quickstart
 
 Check out the Jupyter Notebook(s) in ``doc/notebooks/``.
 
+Documentation
+-------------
+
+- The documentation is `available online <https://startup-name-generator.readthedocs.io/en/latespt/>`_
+- I also gave a lightning talk presenting the basic idea, it's available `on Youtube <https://www.youtube.com/watch?v=1w3Q3CEldG0>`_.
+
 Extended summary
 ----------------
 

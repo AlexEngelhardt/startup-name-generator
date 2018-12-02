@@ -19,6 +19,8 @@ similar sounding suggestions. An example call to a trained model looks like this
 
 The package source is available on `GitHub <https://github.com/AlexEngelhardt/startup-name-generator>`_.
 
+I also gave a lightning talk presenting the basic idea, it's available `on Youtube <https://www.youtube.com/watch?v=1w3Q3CEldG0>`_.
+
 
 Supplied wordlists
 ------------------
