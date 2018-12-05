@@ -1,6 +1,9 @@
 startup-name-generator
 ======================
 
+- `This package on PyPI <https://pypi.org/project/sng/>`_
+- `This package on GitHub <https://github.com/AlexEngelhardt/startup-name-generator>`_
+
 Summary
 -------
 
@@ -11,12 +14,12 @@ which can be used as suggestions for naming things like companies or software.
 Quickstart
 ----------
 
-Check out the Jupyter Notebook(s) in ``doc/notebooks/``.
+Check out the `Jupyter Notebook(s) in doc/notebooks/ <https://startup-name-generator.readthedocs.io/en/latest/notebooks/01_quickstart.html>`_.
 
 Documentation
 -------------
 
-- The documentation is `available online <https://startup-name-generator.readthedocs.io/en/latespt/>`_
+- The full documentation is `available online <https://startup-name-generator.readthedocs.io/en/latest/>`_
 - I also gave a lightning talk presenting the basic idea, it's available `on Youtube <https://www.youtube.com/watch?v=1w3Q3CEldG0>`_.
 
 Extended summary

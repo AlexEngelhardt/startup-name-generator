@@ -19,7 +19,11 @@
 
 - Increase the version number in `__init__.py`
 - Go into `doc/` and `make html` and `make latexpdf`
-- `git commit`; `git push origin master`
+- Git stuff:
+  - `git commit`
+  - `git push origin master`
+  - `git tag v0.4` (i.e. a new version)
+  - `git push origin v0.4` (this auto-creates a new *release*)
 - Build the new docs at [readthedocs](https://readthedocs.org/projects/startup-name-generator/)
 - Empty your `dist/` directory (not said in the tutorial, but just for good measure).
 - `python3 setup.py sdist bdist_wheel`
