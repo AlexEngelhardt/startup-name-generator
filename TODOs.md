@@ -1,5 +1,6 @@
 # TODOs / next steps
 
+- In [the docs](https://startup-name-generator.readthedocs.io/en/latest/modules.html#module-sng.wordlists.wordlists), why are my docstrings not marked with "Parameters:" and "Returns:" markers like [here](https://pomegranate.readthedocs.io/en/latest/HiddenMarkovModel.html#pomegranate.hmm.HiddenMarkovModel.add_transitions)?
 - When using a stored model for simulation, I still need to load the wordlist in order to generate the character dictionary. The wordlist can not be changed, otherwise you'd have to retrain the model. It would be nice to store the character set (it's the `ix_to_char` dictionary in the code) along with the model.
 - Since I'm not yet a Python expert, there are most likely some suboptimal ways of doing things in the code.
 - I currently filter out the hyphen during preprocessing. Ideally, I should keep it if it appears within a word, and filter it if it represents something else like a bullet list item.

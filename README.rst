@@ -39,7 +39,3 @@ Literature/References
 - http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 - https://github.com/keras-team/keras/blob/master/examples/lstm_text_generation.py
 
-Uploading to PyPI
------------------
-
-https://packaging.python.org/tutorials/packaging-projects/#uploading-the-distribution-archives

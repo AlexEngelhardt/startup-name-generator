@@ -16,3 +16,10 @@ Generator
     :members:
 
 
+Wordlists
+---------
+
+.. automodule:: sng.wordlists.wordlists
+    :members:
+
+

@@ -27,8 +27,7 @@ class Generator:
         Path to a textfile holding the text corpus you want to use.
     wordlist : list of strings
         Alternatively to ``wordlist_file``, you can provide the already
-        processed wordlist, a list of (ideally unique) strings , each ending
-        in a newline.
+        processed wordlist, a list of (ideally unique) strings.
 
     Attributes
     ----------
