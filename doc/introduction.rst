@@ -31,7 +31,7 @@ J.R.R. Tolkien’s Black Speech, the language of Mordor. Below, I'll briefly
 describe them and also show some randomly sampled output for the (totally not
 cherry-picked) generated words. These corpora are available in the `wordlists
 subdirectory
-<https://github.com/AlexEngelhardt/startup-name-generator/tree/master/wordlists>`_.
+<https://github.com/AlexEngelhardt/startup-name-generator/tree/master/sng/wordlists>`_.
 
 
 - `German <http://gutenberg.spiegel.de/buch/robinson-crusoe-747/1>`_.
@@ -58,7 +58,7 @@ subdirectory
 Celtic
 ^^^^^^
 
-My main target was a Celtic sounding name. Therefore, I first created a corpus of two parts (`browse it here <https://github.com/AlexEngelhardt/startup-name-generator/blob/master/wordlists/gallic.txt>`_): first, a Gallic dictionary, and second, selected song lyrics by the swiss band `Eluveitie <http://www.darklyrics.com/e/eluveitie.html>`_. They write in the Gaulish language, which reads very pleasantly and makes for good startup names in my opinion::
+My main target was a Celtic sounding name. Therefore, I first created a corpus of two parts (`browse it here <https://github.com/AlexEngelhardt/startup-name-generator/blob/master/sng/wordlists/gallic.txt>`_): first, a Gallic dictionary, and second, selected song lyrics by the swiss band `Eluveitie <http://www.darklyrics.com/e/eluveitie.html>`_. They write in the Gaulish language, which reads very pleasantly and makes for good startup names in my opinion::
 
     Lucia
     Reuoriosi
@@ -74,7 +74,7 @@ My main target was a Celtic sounding name. Therefore, I first created a corpus o
 Pokemon
 ^^^^^^^
 
-I also wanted to feed the model a `list of all Pokemon <https://github.com/AlexEngelhardt/startup-name-generator/blob/master/wordlists/pokemon.txt>`_, and then generate a list of new Pokemon-themed names::
+I also wanted to feed the model a `list of all Pokemon <https://github.com/AlexEngelhardt/startup-name-generator/blob/master/sng/wordlists/pokemon.txt>`_, and then generate a list of new Pokemon-themed names::
 
     Grubbin
     Agsharon
@@ -90,7 +90,7 @@ I also wanted to feed the model a `list of all Pokemon <https://github.com/AlexE
 Tolkien’s Black Speech
 ^^^^^^^^^^^^^^^^^^^^^^
 
-J.R.R. Tolkien's `Black Speech <http://www.angelfire.com/ia/orcishnations/englishorcish.html>`_, the language of the Orcs, was a just-for-fun experiment (`wordlist here <https://github.com/AlexEngelhardt/startup-name-generator/blob/master/wordlists/black-speech.txt>`_). It would be too outlandish for a company name, but nonetheless an interesting sounding corpus::
+J.R.R. Tolkien's `Black Speech <http://www.angelfire.com/ia/orcishnations/englishorcish.html>`_, the language of the Orcs, was a just-for-fun experiment (`wordlist here <https://github.com/AlexEngelhardt/startup-name-generator/blob/master/sng/wordlists/black-speech.txt>`_). It would be too outlandish for a company name, but nonetheless an interesting sounding corpus::
 
     Aratani
     Arau
@@ -106,7 +106,7 @@ J.R.R. Tolkien's `Black Speech <http://www.angelfire.com/ia/orcishnations/englis
 Death metal lyrics
 ^^^^^^^^^^^^^^^^^^
 
-As a metal fan, I also wanted to see what happens if the training data becomes song lyrics. I used lyrics by the Polish death metal band `Behemoth <http://www.darklyrics.com/b/behemoth.html>`_, because the songs are filled with occult-sounding words (`see the wordlist <https://github.com/AlexEngelhardt/startup-name-generator/blob/master/wordlists/behemoth.txt>`_)::
+As a metal fan, I also wanted to see what happens if the training data becomes song lyrics. I used lyrics by the Polish death metal band `Behemoth <http://www.darklyrics.com/b/behemoth.html>`_, because the songs are filled with occult-sounding words (`see the wordlist <https://github.com/AlexEngelhardt/startup-name-generator/blob/master/sng/wordlists/behemoth.txt>`_)::
 
     Artered
     Unlieling

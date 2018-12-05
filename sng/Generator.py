@@ -48,7 +48,7 @@ class Generator:
 
         # Folder for pre-installed wordlists:
         wordlist_folder = os.path.join(
-            os.path.dirname(os.path.abspath(sng.__file__)), '..', 'wordlists')
+            os.path.dirname(os.path.abspath(sng.__file__)), 'wordlists')
         sample_wordlist = os.path.join(wordlist_folder, 'latin.txt')
 
         # Create a Generator object with some wordlist:

@@ -1,1 +1,2 @@
-include wordlists/*.txt
+recursive-include sng/wordlists *.txt
+
