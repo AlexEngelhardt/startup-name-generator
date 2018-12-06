@@ -12,8 +12,9 @@
 from .Generator import Generator
 from .Config import Config
 from . import helpers
-from .wordlists.wordlists import show_builtin_wordlists, load_builtin_wordlist
 
-__version__ = '0.3'
-__all__ = ['Generator', 'Config', 'helpers', 'show_builtin_wordlists',
-           'load_builtin_wordlist']
+from .wordlists import show_builtin_wordlists, load_builtin_wordlist
+
+__version__ = '0.3.1'
+__all__ = ['Generator', 'Config', 'helpers',
+           'show_builtin_wordlists', 'load_builtin_wordlist']
