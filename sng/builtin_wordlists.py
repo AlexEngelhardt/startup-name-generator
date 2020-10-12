@@ -8,7 +8,8 @@ def show_builtin_wordlists():
     Use one of them as an argument to :func:`load_builtin_wordlist`
     and get back a ready-to-go wordlist.
     """
-    return [x for x in os.listdir(os.path.dirname(__file__))
+    return [x for x in
+            os.listdir(os.path.join(os.path.dirname(__file__), "wordlists"))
             if x.endswith('.txt')]
 
 
@@ -30,7 +31,7 @@ def load_builtin_wordlist(name):
         This is taken care of by :class:`sng.Generator`'s ``__init__`` method.
     """
 
-    path = os.path.dirname(__file__)
+    path = os.path.join(os.path.dirname(__file__), "wordlists")
     wordlist_file = os.path.join(path, name)
     if os.path.isfile(wordlist_file):
         contents = open(wordlist_file).read().replace('\n', ' ')
